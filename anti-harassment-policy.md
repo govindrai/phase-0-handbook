@@ -1,7 +1,8 @@
 # Dev Bootcamp student and guest Anti-Harassment Policy
 
 ### Applies to
-This policy governs the behavior of students, alumni, and guests in Phase 0 and the Dev Bootcamp space and staff interacting with other staff, students, alumni, and guests in the Dev Bootcamp space or otherwise representing Dev Bootcamp.  The Bootcamp Education, Inc. Sexual Harassment policy overrides anything in this policy.
+
+This policy governs the behavior of students, guides and staff in Phase 0. This includes in blog posts, on the Google+ community, while you are pairing with other students, leaving feedback and any other interaction/communication with people associated with DBC. In addition to this policy covering the Phase 0 space, it also covers students, alumni, staff and guests in our locations spaces or any gathering related to DBC.  The Bootcamp Education, Inc. Sexual Harassment policy overrides anything in this policy.
 
 **We expect participants to follow these rules at the Dev Bootcamp space (including all online spaces, communities, and interactions) and all related social events.**
 
