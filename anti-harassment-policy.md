@@ -19,11 +19,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Dev Bootcamp Staff will be happy to assist those experiencing harassment to feel safe for the duration of their time in Phase 0 and at Dev Bootcamp.
 
-## Contact
+## Your Phase 0 contacts
 
-### Phase 0
-
-**Contact**
 * Male: emmanuel@devbootcamp.com
 * Female: maria@devbootcamp.com
 
