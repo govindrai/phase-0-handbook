@@ -3,7 +3,7 @@
 ### Applies to
 This policy governs the behavior of students, alumni, and guests in Phase 0 and the Dev Bootcamp space and staff interacting with other staff, students, alumni, and guests in the Dev Bootcamp space or otherwise representing Dev Bootcamp.  The Bootcamp Education, Inc. Sexual Harassment policy overrides anything in this policy.
 
-**We expect participants to follow these rules at the Dev Bootcamp space and all related social events.**
+**We expect participants to follow these rules at the Dev Bootcamp space (including all online spaces, communities, and interactions) and all related social events.**
 
 ## Quick version
 Dev Bootcamp is dedicated to providing a harassment-free environment and experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, national origin or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate at Dev Bootcamp, including talks.  Participants violating these rules may be sanctioned or asked to leave without a refund at the discretion of Dev Bootcamp staff. Our anti-harassment policy can be found at [below](#long-version)
@@ -32,5 +32,3 @@ Dev Bootcamp Staff will be happy to assist those experiencing harassment to feel
 
 This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
-
-Go back to [Rules and Policies](rules-and-policies.md)
