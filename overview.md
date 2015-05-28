@@ -49,3 +49,17 @@ In either of these cases if we cannot find out what’s going on and give you th
 So if the situation persists and you are not meeting the expectations, not asking for help, and we don’t know your situation, we will automatically begin withdrawal procedures if we do not hear from you.
 
 We hope this doesn’t sound too harsh or cold, but part of the reason for a robust and engaged Phase 0 is to identify any problems you might have with DBC and learning our curriculum early, to spare you the pain, cost, and frustration of realizing any of these issues in Phase 1 after you’ve quit your jobs, uprooted, and changed your life.
+
+### Repating in Phase 0
+
+If you are having a hard time keeping up with the material or really grasping the concepts, repeating a unit is a tool you can use to get caught up. When you repeat a unit you will go through the same challenges that you did the first time, but with a clean slate. 
+
+Here are a few things to note if you are considering repeating a Unit of Phase 0:
+* You will be charged $250 to give up the spot in your original cohort and get a spot in a new cohort.
+* All of the submissions you have already made for that unit will be deleted, meaning you will have to do and submit all the work again.
+* This is true for GPS and Code Reviews as well. You must do them again with your new cohort.
+* You always have to be in a cohort, meaning you cannot deferr indefinitly.
+* You can only repeat each unit once.
+
+If repeating is an option you want to explore more, please email phase0@devbootcamp.com to start the conversation and get the process started.
+
