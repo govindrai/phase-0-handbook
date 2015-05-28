@@ -1,10 +1,8 @@
 # How to Pseudocode
 
-You should have tests already created (whether it's RSpec tests, JavaScript tests, or your own driver test code/assert statements)
+Watch [this video](https://talks.devbootcamp.com/introduction-to-pseudocode) on Pseudocode. You'll need to log in using your Socrates credentials to view it. 
 
-The first thing you should do (before even starting to pseudocode) is to run the tests. Each test should fail. 
-
-Then, in the pseudocode section of your `my_solution` file, identify what you are inputting to the class/method/code and what you need the code to output (what you expect to get).
+In the pseudocode section of your `my_solution` file, identify what you are inputting to the class/method/code and what you need the code to output (what you expect to get).
 
 From there, look at each test and write specific step-by-step ideas in code-like English to pass each of the tests. 
 

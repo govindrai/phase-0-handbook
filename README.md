@@ -8,8 +8,9 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 1. [Welcome!](overview.md)
 2. [Phase 0 Prerequisites](phase-0-prerequisites.md)
 3. [The Three Agreements](three-agreements.md)
-4. [Phase 0 Web Applications](p0-web-apps.md)
-5. [Contact and Support List](contact-and-support-list.md)
+4. [Anti-Harassment Policy](anti-harassment-policy.md)
+5. [Phase 0 Web Applications](p0-web-apps.md)
+6. [Contact and Support List](contact-and-support-list.md)
 
 ## To Do List 
 
