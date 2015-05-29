@@ -29,3 +29,7 @@ Last but not least, we expect you to be kind to yourself.  You've taken a big ri
 ## The Third Agreement: Whole Self
 
 We expect you to bring your intelligence, your focus, your creativity, and your personality into each challenge every day. If you are struggling, we expect you to ask others (people in your cohort, alumni, or staff) for help. If you find that you're holding some part of you back from this experience, we ask that you focus on being authentic with your pair, your cohort, and staff. DBC flourishes when all of us feel safe being authentic with each other.
+
+This includes exposing your ignorance and being open to uncomfortable emotional and technical challenges at DBC.
+
+We expect everyone to complete the assigned challenges, but we want to reinforce that it's not about completing the challenge if nothing is learned. The DBC experience is fundamentally about *learning*. We expect you to demonstrate effort and mastery of each learning competency by completing the challenges.
