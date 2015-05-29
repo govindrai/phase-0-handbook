@@ -9,16 +9,16 @@ This is the phase of DBC where you can, more or less, work at your own pace to s
 * Get to know some of the people you are going to be on-site with. The main way this is going to get accomplished is within your accountability group, who you will check in with every week.
 * Get your feet wet with pairing. When you come on-site you are going to be pairing about 95% of the time and we want you to start getting use to this from Day 1. In Phase 0 you are going to have required Peer Pairing sessions and Guided Pairing Sessions. After these sessions you will also give and receive feedback from your pair.
 * Ensure that every student enters Phase 1 with a baseline experience to build on during Phases 1 - 3. Some students come to DBC with a little more experience than others and we want there to be a way to level that out some so eveyone has at least been exposted to the fundementals before starting Phase 1.
-* Introduce you to DBC's style of "learning how to learn." While at DBC, you are going to be given challenges that will help you learn certain concepts. There are a lot of methods you are going to use to turely understand these concepts. There might be a lecture or video or there might be a specific book/document referenced in the challenge to guide you. But the main way you are going to learn the concepts is by working with your pair, using online docs, and googling when you get stuck. Along the way there will be a lot of people you can ask questions to. There are guides in Phase 0, instructors in Phases 1 - 3, and other alumni/mentors throughout the entire experience.
-* Learning to expose your ignormace. This means knowing when you do not know something and being able to ask a quesion. There will be many people along your jouney at DBC that are willing and eager to help, you just have to ask for it. Whether it be a technical question, a concept you are not getting or simply needing someone to talk to and support you. 
+* Introduce you to DBC's style of "learning how to learn." While at DBC, you are going to be given challenges that will help you learn certain concepts. There are a lot of methods you are going to use to truely understand these concepts. There might be a lecture or video or there might be a specific book/document referenced in the challenge to guide you. But the main way you are going to learn the concepts is by working with your pair, using online docs, and googling when you get stuck. Along the way there will be a lot of people you can ask questions to. There are guides in Phase 0, instructors in Phases 1 - 3, and other alumni/mentors throughout the entire experience.
+* Learning to expose your ignormace. This means knowing when you do not know something and being able to ask a quesion. There will be many people along your jouney at DBC that are willing and eager to help, you just have to ask for it. Whether it be a technical question, a concept you are not getting, or simply needing someone to talk to and support you. 
 
-Right now you are in your pre-Phase 0 prep period. Before you can start Phase 0, you will need to complete a few administrative tasks and personal preparation. Please go through each of these sections and complete each task. You should be well acquainted with our program and what is going to be expected of you once completeling these tasks and will be ready to start Phase 0 by your start date. If you do not feel fully acquanted or know exactly  what is expected of you, do not worry or freak out, there will be plenty of time to ask questions in your first week of Phase 0.
+Before you can start Phase 0, you will need to complete a few administrative requirements and personal preparation. Please go through each of these sections and complete each requirement. You should be well acquainted with our program and what is going to be expected of you once completing these requirements and will be ready to start Phase 0 by your start date. If you do not feel fully acquanted or know exactly  what is expected of you, do not worry or freak out, there will be plenty of time to ask questions in your first week of Phase 0.
 
 Here is a rough timeline of what you can expect from now until your start date:
-* Right now you should be working on these prerequisites (please do not wait until your start date to do these)
-* You will hear from us about a week before your start date. At this time we will help you get set up with the systems you will need to use in Phase 0 (Socrates, Phase 0 app, etc)
-* The Friday before you start we will check in again to remind you to complete everything that is required (it is especially important that we have your GitHub user name by the Friday before your start date)
-* During the first week of Phase 0 you will have an Intro Session with a member of the Phase 0 Team to make sure you have all your questions answered and are ready to hit the ground running
+* Right now you should be working on these prerequisites. These must be done before your start date.
+* You will hear from us about a week before your start date. At this time we will help you get set up with the systems you will need to use in Phase 0 (Socrates, Phase 0 app, etc).
+* The Friday before you start we will check in again to remind you to complete everything that is required (it is especially important that we have your GitHub user name by the Friday before your start date).
+* During the first week of Phase 0 you will have an Intro Session with a member of the Phase 0 Team to make sure you have all your questions answered and are ready to hit the ground running. These intro sessions are only offered during business hours (9:00AM PST to 6:00PM PST).
 
 If you have any questions, comments, concerns, or feedback for the Phase 0 Team, please contact us at <phase0@devbootcamp.com>. Please mention your start date in the email.
 
@@ -39,9 +39,9 @@ We also do not suggest students quit their full time job before starting the pro
 #### 1. Create Accounts
 You will need each of these accounts prior to Phase 0, and we will ask you to provide links in your Socrates (our student application) profile when you receive your welcome email in the week prior to starting Phase 0.
 
-- [Gmail](http://www.gmail.com)<br> We use Google Hangouts and Communities throughout Phase 0 so it is necessary that you have a Gmail account for these. We encourage students to use this Gmail account for all communication in Phase 0. If you signed up with a differnt email address and now want to change it to your Gmail address please go to [apply.devbootcamp.com](http://apply.devbootcamp.com) **before** starting Phase 0. **Make sure to activate Google+ on this account**
+- [Gmail](http://www.gmail.com)<br> We use Google Hangouts and Communities throughout Phase 0 so it is necessary that you have a Gmail account for these. We encourage students to use this Gmail account for all communication in Phase 0. If you signed up with a different email address and now want to change it to your Gmail address please go to [apply.devbootcamp.com](http://apply.devbootcamp.com) **before** starting Phase 0. **Make sure to activate Google+ on this account**
 
-- [Github](https://github.com/)<br> You will start using github on the first day of Phase 0, so please create an account. This will be where you keep all of your code from Dev Bootcamp and becomes your technical resume when you apply for jobs - so you may want to select your username with that in mind.
+- [GitHub](https://github.com/)<br> You will start using GitHub on the first day of Phase 0, so please create an account. GitHub is where your Dev Bootcamp code will be stored and will also become your technical resume when you start applying for jobs. (You may want to select your username with that in mind).
 
 - [Twitter](https://twitter.com/)<br>You will be using Twitter throughout Phase 0 and will have some challenges using the Twitter API later when you come on-site.
 
@@ -58,16 +58,16 @@ You are about to embark on a new learning experience. You will be challenged in 
 You need to be able to:
 
 - Explain the difference between <a href="http://examinedexistence.com/carol-dweck-on-fixed-mindset-vs-growth-mindset/" target="_blank">growth and fixed mindset</a>.
-- Identify my
+- Identify your
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
-- Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
+- Explain your <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
 - Identify strategies to work more effectively. Read [Nine Things Successful People Do Differently](https://hbr.org/2011/02/nine-things-successful-people/) for inspiration.
 
 #### 3. Update your browser
 It's very important that you're using the latest version of your web browser. For Phase 0, we recommend working with [Chrome](https://www.google.com/chrome/browser/).
 
 #### 4. Typing and shortcuts
-It's important to be able to type at a decent rate in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice! And trust us, you will get pleanty of practice at DBC.
+It's important to be able to type at a decent rate in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice! And trust us, you will get plenty of practice at DBC.
 
 Take a baseline <a href = "http://www.typingtest.com/index.html" target="_blank">test</a> to see how fast you currently type.
 
@@ -84,7 +84,7 @@ If you are going to use a PC we highly recommend using either Unix or Linux rath
 This detailed document outlines the Phase 0 Program in great depth, so please take time to read it to get comfortable with Phase 0 and Dev Bootcamp!
 
 #### 7. Watch
-The following videos introduce some key concepts of the Phase 0 experience is based on. You will be expected to be familiar with each of these prior to starting Phase 0 as they are critical componemts of the culture we have at DBC.
+The following videos introduce some key concepts of the Phase 0 experience is based on. You will be expected to be familiar with each of these prior to starting Phase 0 as they are critical components of the culture we have at DBC.
 
 - Engineering Empathy: [EQ: Emotional Intelligence](https://vimeo.com/99779530) 15 min
 - Giving and Receiving [Feedback](https://vimeo.com/99780302) 27 min
