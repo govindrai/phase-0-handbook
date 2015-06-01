@@ -27,7 +27,7 @@ Another important thing to note about this learning style is it's not necessaril
 If you are having a hard time keeping up with the material or grasping the concepts, repeating a unit is a tool you can use to catch up. When you repeat, you will get a second chance with the challenges you did not feel comfortable with or ones you struggled to complete.
 
 Here are a few things to note if you are considering repeating a Unit of Phase 0:
-* There is a $250 change fee becuase your spot in your original cohort will go unfilled.
+* There is a $250 change fee because your spot in your original cohort will go unfilled.
 * All of the submissions you have already made for that unit will be deleted, meaning you will have submit all the work again.
 * You must re-do all GPS and Code Reviews as well.
 * You can only repeat each unit once.
