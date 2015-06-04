@@ -67,13 +67,17 @@ You need to be able to:
 It's very important that you're using the latest version of your web browser. For Phase 0, we recommend working with [Chrome](https://www.google.com/chrome/browser/).
 
 #### 4. Typing and shortcuts
-It's important to be able to type at a decent rate in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice! And trust us, you will get plenty of practice at DBC.
+It's important to be able to type at a decent rate in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice! And trust us, you will get plenty of practice at DBC. It's also valuable to get practice with "touch typing" (i.e. typing without looking at the keyboard). You will be much faster as a programmer if you practice this early. 
 
 Take a baseline <a href = "http://www.typingtest.com/index.html" target="_blank">test</a> to see how fast you currently type.
 
-Then practice. Try <a href = "http://www.typingtest.com/index.html" target="_blank">test</a>[typing.io](http://typing.io/) to practice typing code, which has a ton of strange symbols. Typing can be fun to practice and you can't get too good at it.
+Once you get practice with paragraphs, try working with code. <a href = "http://typing.lk/" target="_blank">typing.lk</a> allows you to time yourself and practice typing code and words. 
 
-For shortcuts, try <a href = "https://www.shortcutfoo.com/" target="_blank">shortcutfoo.com</a>. You'll want to know about some of the awesome sublime text shortcuts.
+Before entering Phase 0, you want to be able to type at least 40 words per minute at a minimum. If typing is something you struggle with, please take some time to practice and improve. This is always a good thing to practice when you are tired during Phase 0 as well. 
+
+For more code examples, checkout <a href = "http://typing.io/" target="_blank">typing.io</a>.
+
+You will be using Sublime Text during Phase 0 and on site, so you'll probably want to learn some shortcuts. Try <a href = "https://www.shortcutfoo.com/" target="_blank">shortcutfoo.com</a>. You'll want to know about some of the awesome sublime text shortcuts.
 
 #### 5. Computer setup
 We provide computer setup instructions in Week 1 to help you get a developer environment up and running. That said, these instuctions are most beneficial on a computer that has a "clean" environment (i.e. one that hasn't been set up for development before), so please avoid trying to set up your computer in advance of Phase 0 if you haven't already. If you are working on a machine that has already been configured, you may have more issues with setup. 
