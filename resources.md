@@ -59,6 +59,7 @@
 - [Humble little Ruby Book](http://www.humblelittlerubybook.com/)
 - [Eloquent Ruby](http://eloquentruby.com/)
 - [Confident Ruby](http://www.confidentruby.com/)
+- [A Wealth Of Ruby Loops And Iterators](http://www.skorks.com/2009/09/a-wealth-of-ruby-loops-and-iterators)
 
 
 ####SQL and Databases
