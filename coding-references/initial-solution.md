@@ -4,6 +4,8 @@ Now you actually get to code! Your entire goal here is to translate your pseudoc
 
 If your pseudocode is not easy to implement, modify it and re-attempt to code it. 
 
+For the initial solution, focus on solving the problem using the knowledge you already know. The time to find new methods is in the refactoring stage.
+
 Run your code often to check whether you are successfully passing your tests. 
 
 When you've passed each test, give yourself a pat on the back! Then take a break before trying to refactor. It's good to give your eyes a rest so they can more easily see places to improve.
