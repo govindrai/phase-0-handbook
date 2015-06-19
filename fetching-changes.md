@@ -12,8 +12,8 @@ You have a couple of steps to add changes from Devbootcamp's repository. First, 
 ```shell
 $ git remote -v
 
-# origin    https://github.com/[your_username_here]/repo.git (fetch)
-# origin    https://github.com/[your_username_here]/repo.git (push)
+# origin    https://github.com/[your_username_here]/phase-0-unit-1.git (fetch)
+# origin    https://github.com/[your_username_here]/phase-0-unit-1.git (push)
 # upstream  https://github.com/Devbootcamp/phase-0-unit-1.git (fetch)
 # upstream  https://github.com/Devbootcamp/phase-0-unit-1.git (push) # You do not want to push to this repository!
 ```
@@ -105,8 +105,8 @@ Type `pwd` to see which directory you are in. Make sure you are in the correct d
 ```shell
 $ git remote -v
 # List the current remotes
-# origin  https://github.com/[your_username_here]/repo.git (fetch)  #This will either have https or ssh url
-# origin  https://github.com/[your_username_here]/repo.git (push)
+# origin  https://github.com/[your_username_here]/phase-0-unit-1.git (fetch)  #This will either have https or ssh url
+# origin  https://github.com/[your_username_here]/phase-0-unit-1.git (push)
 
 ```
 
@@ -123,8 +123,8 @@ $ git remote add upstream https://github.com/Devbootcamp/phase-0-unit-1.git
 ```shell
 $ git remote -v
 
-origin    https://github.com/[your_username_here]/repo.git (fetch)
-# origin    https://github.com/[your_username_here]/repo.git (push)
+origin    https://github.com/[your_username_here]/phase-0-unit-1.git (fetch)
+# origin    https://github.com/[your_username_here]/phase-0-unit-1.git (push)
 # upstream  https://github.com/Devbootcamp/phase-0-unit-1.git (fetch)
 # upstream  https://github.com/Devbootcamp/phase-0-unit-1.git (push) # You do not want to push to this repository!
 ```
