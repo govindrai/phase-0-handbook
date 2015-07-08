@@ -36,4 +36,4 @@ See [Code Smells](http://blog.codinghorror.com/code-smells/). FYI: When he refer
 
 
 
-If you can't think of a way to improve your code becuase you had an awesome solution the first time, write why you think it's great instead. Do not simply copy the initial solution or leave the refactoring section blank.
+If you can't think of a way to improve your code because you had an awesome solution the first time, write why you think it's great instead. Do not simply copy the initial solution or leave the refactoring section blank. It's a really important step in the development process!
