@@ -2,6 +2,11 @@
 
 Refactoring is an important step to becoming a world-class beginner, and it's important to look at your code fresh before refactoring. 
 
+## Introduction
+
+See this [Refactoring Intro](https://talks.devbootcamp.com/refactoring-intro) for a short tutorial that introduces refactoring. 
+
+## Summary
 Refactoring is not about solving the problem differently, it's about solving the problem well. 
 
 Now is the time to go through the docs to find a method that does what you did from scratch. Because you have already solved the problem once, you'll have a better idea of what method you need to replace some code. 
