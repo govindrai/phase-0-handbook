@@ -12,7 +12,7 @@ Take a look at some other students' solutions to the challenges. To do this you 
 
 1. Go to the fork icon at the top of your repo. There should be a number next to it. Click on the number. It will take you to a graph. Above the graph, click on the "members" tab, which will take you to all of the forks. You should be able to see all of them since you are all in a team together.
 
-2. If you go to your cohort in Socrates and click on a person's picture, you can see a person's GitHub name. (You can also view other cohorts in other locations). Substitute their GitHub name in the URL (You'll have to manually manipulate the URL since the repositories are private and won't show up on their main page). Simply type:
+2. If you go to your cohort in the Phase 0 app you can see a person's GitHub name under their name. Substitute their GitHub name in the URL (You'll have to manually manipulate the URL since the repositories are private and won't show up on their main page). Simply type:
 
 https://github.com/[THEIR-USERNAME]/phase-0-unit-1
 
