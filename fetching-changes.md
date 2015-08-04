@@ -80,7 +80,7 @@ You'll want to go back to the week 1 computer set up instructions and make sure 
 ###3. Commit and push your new local repository with your remote fork on github.com
 
 ```shell
-$ git commit -m "added Dev Bootcamp's changes"
+$ git commit -m "Add Dev Bootcamp's changes"
 
 $ git push origin master
 # origin refers to the name of the remote repo
