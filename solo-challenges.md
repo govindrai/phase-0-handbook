@@ -56,3 +56,20 @@ You will receive a code review and feedback four times in Phase 0 on your solo c
 Although we do not give grades, we will evaluate your code to see if you are learning the objectives we are covering. If you seem to be struggling, we will set up a meeting to see how we can help you. You will not be kicked out of the program for having a hard time with one challenge. If you seem to be struggling with the concepts, we will consult your other solo challenges to see how you did with those and come up with a plan.
 
 If you have any questions regarding feedback you received, you should feel free to reach out to your instructor. You will find your feedback in the comments section on your submission gist (on GitHub).
+
+You will receive feedback for four of your solo challenges. The schedule is below:
+
+    Unit 1:
+     - Week 1: No Solo Challenge
+     - Week 2: Your Website, pt 1. (Not reviewed at this time)
+     - Week 3: Your Website, pt 2. (Not reviewed at this time)
+
+    Unit 2
+     - Week 4: Basic Ruby (Reviewed)
+     - Week 5: Iterating over collections in Ruby (Reviewed)
+     - Week 6: Nested objects in Ruby (Reviewed)
+
+    Unit 3
+     - Week 7: JavaScript Game (Reviewed)
+     - Week 8: No Solo Challenge
+     - Week 9: No Solo Challenge
