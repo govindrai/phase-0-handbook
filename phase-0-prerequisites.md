@@ -3,7 +3,7 @@
 
 # Welcome to DBC!
 
-We are so excited that you have decided to embark on this amazing, life changing journey with us.  Over the next few months you are not only going to learn how to "Build Beautiful and Meaningful Things" but you are going to learn a lot about yourself and others. There are a lot of staff at DBC you are going to interact with at different parts of the program. Each of these people are going to help guide you, support you, and challenge you all at the same time. Right now, you are about to start the remote part of DBC with the Phase 0 Team.
+We are so excited that you have decided to embark on this amazing, life changing journey with us.  Over the next few months you are not only going to learn how to "Make Beautiful and Meaningful Things" but you are going to learn a lot about yourself and others. There are a lot of staff at DBC you are going to interact with at different parts of the program. Each of these people are going to help guide you, support you, and challenge you all at the same time. Right now, you are about to start the remote part of DBC with the Phase 0 Team.
 
 Before you can start Phase 0, you will need to complete a few administrative requirements and personal preparation. Please go through each of these sections and complete each requirement. You should be well acquainted with our program and what is going to be expected of you once completing these requirements and will be ready to start Phase 0 by your start date. If you do not feel fully acquainted or know exactly  what is expected of you, do not worry or freak out, there will be plenty of time to ask questions in your first week of Phase 0.
 
