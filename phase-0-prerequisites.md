@@ -7,7 +7,7 @@ We are so excited that you have decided to embark on this amazing, life changing
 
 Before you can start Phase 0, you will need to complete a few administrative requirements and personal preparation. Please go through each of these sections and complete each requirement. You should be well acquainted with our program and what is going to be expected of you once completing these requirements and will be ready to start Phase 0 by your start date. If you do not feel fully acquainted or know exactly  what is expected of you, do not worry or freak out, there will be plenty of time to ask questions in your first week of Phase 0.
 
-Here is a rough time line of what you can expect from now until your start date:
+Here is a rough timeline of what you can expect from now until your start date:
 * Right now you should be working on these prerequisites. These must be done before your start date.
 * You will hear from us about a week before your start date. At this time we will help you get set up with the systems you will need to use in Phase 0 (Socrates, Phase 0 app, etc). So please do not try to log into the Phase 0 app or Socrates until after we have emailed you saying that you have been added to our systems, you will not have access yet.
 * The week before you start Phase 0, you will also gain access to Canvas, our Learning Management System you will be using for Phase 0. Once you have access to this you will get instructions on how to setup your computer's development environment. You will also have a few other activities to complete in the week before you start. Please plan on spending about 5-7 hours on your Week 0 material.
