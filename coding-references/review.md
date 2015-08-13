@@ -1,4 +1,4 @@
-# How to Review Other's Solutions
+# How to Review Others' Solutions
 
 We use the GitHub feature "Issues" to give feedback to other students. Code Review feedback is not anonymous, and are done via GitHub. The instructions for doing this are below.
 
