@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/MYCjKBP.jpg" height="75% "width="75%">
+<img src="https://github.com/Devbootcamp/graphic-assets/blob/master/logos/DBC_HORIZONTAL%20LOGO/2_COLOR/RGB/DBC_H_2C_RGB.png">
 
 
 # Welcome to DBC!
