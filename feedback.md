@@ -10,7 +10,7 @@ Please watch [Engineering Empathy on Feedback](https://vimeo.com/99780302) prior
 
 ### Meta Feedback
 
-In order to make sure you and your pairs receive the feedback you've each submitted, all students are required to rate at least 20 pieces of feedback per unit. To rate feedback go to [Feedbackinator - Feedback Dashboard](https://feedback.devbootcamp.com/). The Feebdack App will not display your feedback (feedback from others to you) until you have four pieces that have been thoroughly rated, so it will take some before you get your first pieces of feedback from your pairs. Pairing early and often will help ensure you get feedback sooner.
+In order to make sure you and your pairs receive the feedback you've each submitted, all students are required to rate at least 8 pieces of feedback per week. To rate feedback go to [Feedbackinator - Feedback Dashboard](https://feedback.devbootcamp.com/). The Feebdack App will not display your feedback (feedback from others to you) until you have four pieces that have been thoroughly rated, so it will take some before you get your first pieces of feedback from your pairs. Pairing early and often will help ensure you get feedback sooner.
 
 **All feedback must be anonymous to protect privacy.**
 
