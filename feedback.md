@@ -18,6 +18,6 @@ It is mandatory you abstain from writing your pair's name or your own name anywh
 
 Please Note: Feedback is not editable, by you as a student or by the Phase 0 Team as admins, in the app once it's submitted.
 
-Unfortunately, there is no counter in the app for you to keep track of the amount you rate, so it is up to you to keep track of how many pieces you've rated. You will be expected to keep track of how much feedback you rate and enter it on your weekly submission form.
+Unfortunately, there is no counter in the app for you to keep track of the amount you rate, so it is up to you to keep track of how many pieces you've rated and enter it on your pairing form.
 
 If you want another resource for help on writing good feedback, check out [Seven Keys to Effective Feedback](http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/Seven-Keys-to-Effective-Feedback.aspx).
