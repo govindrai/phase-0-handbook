@@ -16,7 +16,7 @@ As part of Phase 0, students are expected to pair program with another student i
 * Unit 2: 6 times
 * Unit 3: 6 times
 
-While it is not mandatory, we encourage students to pair with a different person in each session. This ensures you do not get use to just one person's unique pairing style. We also recommend pairing twice per week, but this is flexible. You can pair more in one week and less in the next.
+While it is not mandatory, we encourage students to pair with a different person in each session. This ensures you do not get used to just one person's unique pairing style. We also recommend pairing twice per week, but this is flexible. You can pair more in one week and less in the next.
 
 It is up to each student to arrange pairing sessions. We suggest posting in the Google+ community to request a pairing session. In your post, it helps to state a time/times (including a time zone) and the challenge you want to pair on. Once another student says they are avalible to pair, you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
 
