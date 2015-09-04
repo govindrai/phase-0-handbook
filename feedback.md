@@ -4,7 +4,7 @@
 
 ###Submitting Feedback
 
-You must complete feedback using the [Feedback Appsoc](https://feedback.devbootcamp.com/) for every pairing session (GPS and Peer Pairing) you complete. Giving feedback is a mandatory aspect of Phase 0. Like many other things, this is an honor based system. We expect you are pairing the required number of times each unit and self reporting that number accurately in your weekly submission.
+You must complete feedback using the [Feedback App](https://feedback.devbootcamp.com/) for every pairing session (GPS and Peer Pairing) you complete. Giving feedback is a mandatory aspect of Phase 0. Like many other things, this is an honor based system. We expect you are pairing the required number of times each unit and self reporting that number accurately in your weekly submission.
 
 Please watch [Engineering Empathy on Feedback](https://vimeo.com/99780302) prior to giving feedback for the first time for some guidelines on leaving good feedback. Writing good feedback is challenging and time consuming. But, it is important to make sure you are writing feedback that will help your pair grow as a partner and as a programmer.
 
