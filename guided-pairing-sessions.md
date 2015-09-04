@@ -32,7 +32,7 @@ The GPS schedule is as follows:
 
     Unit 2
      - Week 4: GPS 2.1 Methods and Looping in Ruby
-     - Week 5: GPS 2.2 Looping and Acessing Data in Ruby
+     - Week 5: GPS 2.2 Looping and Accessing Data in Ruby
      - Week 6: GPS 2.3 Nested Objects in Ruby
 
     Unit 3
