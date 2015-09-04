@@ -14,7 +14,7 @@ In order to make sure you and your pairs receive the feedback you've each submit
 
 **All feedback must be anonymous to protect privacy.**
 
-It is mandatory you abstain from writing your pair's name or your own name anywhere in the free-form text. Since students review each piece of feedback and rate it for kindness, actionability, and specificity it should not be public who the feedback is coming from or going to. This is extremely important to make receiving feedback a safe and positive experience.
+It is mandatory you abstain from writing your pair's name or your own name anywhere in the free-form text. Since students review each piece of feedback and rate it for actionability, specificity, and kindness it should not be public who the feedback is coming from or going to. This is extremely important to make receiving feedback a safe and positive experience.
 
 Please Note: Feedback is not editable, by you as a student or by the Phase 0 Team as admins, in Socrates once it's submitted.
 
