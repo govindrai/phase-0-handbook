@@ -17,7 +17,7 @@ Each GPS challenge is designed to reinforce the learning competencies covered up
 
 Each student is required to attend six Guided Pairing Sessions (GPS) during Phase 0. Sessions are based on what week you are currently in and follow a specific curriculum. For this reason, they are only offered during the week they are assigned.
 
-Sessions will be posted by noon the Friday before the week starts on the [Phase 0 App](https://phase0.devbootcamp.com). It is vital to sign up for these sessions by Sunday in order to complete the session in the week it is assigned. We only make one sessions for each student so you need to make it a priority to sign up early in order to find a session that works in your schedule. 
+Sessions will be posted by noon the Friday before the week starts on the [Phase 0 App](https://phase0.devbootcamp.com). It is vital to sign up for these sessions by Sunday in order to complete the session in the week it is assigned. We only make one session for each student so you need to make it a priority to sign up early in order to find a session that works in your schedule. 
 
 **If you do not complete the GPS in the week it is assinged, we cannot guarentee you will be able to stay in the cohort you are currently in. You will be forced to repeat that unit. Makeup sessions will only be given for emergencies.**
 
