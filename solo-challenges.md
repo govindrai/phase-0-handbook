@@ -51,23 +51,23 @@ If we suspect the work you submitted is not your own, which we determine from se
 
 ## Code Review and Feedback
 
-You will receive a code review and feedback four times in Phase 0 on your solo challenges for weeks 4-7. This gives the instructors time to comment and give you feedback. Each instructor has his/her own style, but many will focus on what you can do to improve. It may sound crazy, but each review takes at least 15 minutes, so we focus on areas of improvement. We want you to think of feedback as helpful to your growth, not an indicator of failure. If you were a perfect programmer, why would you be coming to Dev Bootcamp?
+You will receive a code review and feedback four times in Phase 0 on your solo challenges for weeks 3, 5-7. This gives the instructors time to comment and give you feedback. Each instructor has his/her own style, but many will focus on what you can do to improve. It may sound crazy, but each review takes at least 15 minutes, so we focus on areas of improvement. We want you to think of feedback as helpful to your growth, not an indicator of failure. If you were a perfect programmer, why would you be coming to Dev Bootcamp?
 
-Although we do not give grades, we will evaluate your code to see if you are learning the objectives we are covering. If you seem to be struggling, we will set up a meeting to see how we can help you. You will not be kicked out of the program for having a hard time with one challenge. If you seem to be struggling with the concepts, we will consult your other solo challenges to see how you did with those and come up with a plan.
+We will evaluate your code to see if you are learning the objectives we are covering. If you seem to be not meeting expectations, we will set up a meeting to see how we can help you. You will not be kicked out of the program for having a hard time with one challenge. If you seem to be struggling with the concepts, we will consult your other solo challenges to see how you did with those and come up with a plan.
 
-If you have any questions regarding feedback you received, you should feel free to reach out to your instructor. You will find your feedback in the comments section on your submission gist (on GitHub).
+If you have any questions regarding feedback you received, you should feel free to reach out to your cohort lead.
 
 You will receive feedback for four of your solo challenges. The schedule is below:
 
     Unit 1:
      - Week 1: No Solo Challenge
-     - Week 2: Your Website, pt 1. (Not reviewed at this time)
-     - Week 3: Your Website, pt 2. (Not reviewed at this time)
+     - Week 2: No Reviewed Solo Challenge
+     - Week 3: Your Website (Reviewed)
 
     Unit 2
-     - Week 4: Basic Ruby (Reviewed)
-     - Week 5: Iterating over collections in Ruby (Reviewed)
-     - Week 6: Nested objects in Ruby (Reviewed)
+     - Week 4: No Reviewed Solo Challenge
+     - Week 5: Ruby Collection Types and Enumerables (Reviewed)
+     - Week 6: Ruby Classes and Objects (Reviewed)
 
     Unit 3
      - Week 7: JavaScript Game (Reviewed)
