@@ -20,7 +20,7 @@ Pairing [doesn't feel natural or easy for everyone](http://blogs.atlassian.com/2
 
 ## Pairing in Phase 0
 
-During phase-0, you have a required number of pairing sessions per unit (Unit 1: 4 times, Unit 2: 6 times, Unit 3: 6 times) along with the 2 guided pairing sessions per unit. This adds up to a lot of time spent coding with others! Pairing is a key part of the DevBootcamp's secret sauce to create world class beginner. You will be doing even more pairing when you get to DevBootcamp on site, so consider this an opportunity to fine tune your pairing before diving deep on site.
+During Phase 0, you have a required number of pairing sessions per unit (Unit 1: 4 times, Unit 2: 6 times, Unit 3: 6 times) along with the 2 guided pairing sessions per unit. This adds up to a lot of time spent coding with others! Pairing is a key part of the DevBootcamp's secret sauce to create world class beginner. You will be doing even more pairing when you get to DevBootcamp on site, so consider this an opportunity to fine tune your pairing before diving deep on site.
 
 The first step in pairing is to decide who will be driver and navigator. Here are the definitions of the roles.
 
