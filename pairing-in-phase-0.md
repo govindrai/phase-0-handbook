@@ -20,7 +20,7 @@ Pairing [doesn't feel natural or easy for everyone](http://blogs.atlassian.com/2
 
 ## Pairing in Phase 0
 
-During Phase 0, you have a required number of pairing sessions per unit (Unit 1: 4 times, Unit 2: 6 times, Unit 3: 6 times) along with the 2 guided pairing sessions per unit. This adds up to a lot of time spent coding with others! Pairing is a key part of the DevBootcamp's secret sauce to create world class beginner. You will be doing even more pairing when you get to DevBootcamp on site, so consider this an opportunity to fine tune your pairing before diving deep on site.
+During Phase 0, you have a required number of pairing sessions per unit (Unit 1: 4 times, Unit 2: 6 times, Unit 3: 6 times) along with the 2 guided pairing sessions per unit. This adds up to a lot of time spent coding with others! Pairing is a key part of the DevBootcamp's secret sauce to create world class beginners. You will be doing even more pairing when you get to DevBootcamp on site, so consider this an opportunity to fine tune your pairing before diving deep on site.
 
 The first step in pairing is to decide who will be driver and navigator. Here are the definitions of the roles.
 
@@ -80,7 +80,7 @@ Both people should know the exact line of code and the solution or concept they 
 
 Pairing over the internet has its unique issues. It is easy to misinterpret peoples intentions and tone when you do not have a full picture of their body language, technical issues can create added difficulties on understanding one another. Be aware of these issues and be proactive in combating them.
 
-Overcommunication is preferable when working remotely, especially when you are just starting to pair with someone. You can find out how they like to work and communicate as you go, but to start be overly expressive of your needs. It really helps to get things started on the right foot!
+Overcommunication is preferable when working remotely, especially when you are just starting to pair with someone. You can find out how they like to work and communicate as you go, but to start, be overly expressive of your needs. It really helps to get things started on the right foot!
 
 Phase 0 is built to prepare you for working on site at DevBootcamp, but post DevBootcamp you may work at a job that is 100% remote and only communicate with people over the internet. These skills will put you in a great place to feel comfortable with jobs like this.
 
