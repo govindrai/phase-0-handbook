@@ -6,6 +6,8 @@ Office hours are a time that you can ask questions and bring issues to a Phase 0
 
 You can access the office hours schedule through the Phase 0 App [Office Hours](http://phase0.devbootcamp.com/office_hours) tab. You will be able to join the video call through the provided link when the event occurs.
 
+There will also be office hours with your Teacher throughout the week. You can find these office hours in Canvas (devbootcamp.instructure.com) in the Calendar.
+
 You do not need to sign up for office hours, just jump into the hangout and ask your questions anytime during that hour. You don't need to stay the whole time.
 
 Please note: office hours are times to get help with concepts in the Phase 0 curriculum. We know that many of you take some extra time to work on other projects you want help on, but advanced questions from these projects should wait for DBC on site.
