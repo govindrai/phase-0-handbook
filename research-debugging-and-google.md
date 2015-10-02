@@ -14,33 +14,25 @@ That said, it does not come without some murky ethical waters, particularly for 
 
 Programmers use the term debugging to describe trying to figure out why code isn't working the way they expected it to.
 
-### Tips for Debugging
+#### Tips for Debugging
 - **Remove code** until it's working again, then add code back in, one small change at a time, until you can pin-point the code that breaks.
 - **Look at the console** and play with the code. Does it output what you thought it would in the console? If not, figure out what would. If it does, what's different about my code file? (the web inspector, js console, or IRB)
+- **Read the error message** a lot of times the error message you receive will tell you exactly what you need to do to fix your solution. Make sure to read the message.
 - **Print stuff out**. In HTML, you can add borders to elements with CSS. In JavaScript, you can use `document.write`, `console.log`, and `alert`. In Ruby, try `puts`, `print`, or `p`.
-- **Describe the code**, line-by-line, to an imaginary friend, [rubber ducky](http://en.wikipedia.org/wiki/Rubber_duck_debugging), or friendly bear.  They know nothing and give no feedback, so you better be really really clear!
+- **Describe the code**, line-by-line, to an imaginary friend, [rubber ducky](http://en.wikipedia.org/wiki/Rubber_duck_debugging), or a friendly bear.
 - **Research**. This includes Google, StackOverflow, books, and blog posts.
 
-### Using a Debugger
-Debuggers are tools that will stop the execution of your code, so you can play with things while it's running.
+## Google
 
-You won't use these in Phase 0, but we want you to know they exist
+You should try to solve a challenge or at least psuedo-code using just what you've learned and the resources we've given you.  If you get stuck or during refactoring, you can feel free to google for help. However, you should always understand the code you submit.  If you cannot describe the solution to a non-technical person, then you should not submit that code.
 
-## When to Google
-
-You should try to solve a challenge or at least psuedo-code using just what you've learned and the resources we've given you.  If you get stuck or during refactoring, you can feel free to google for help.
-
-However, **you should always understand the code you submit**.  If you cannot describe the solution to a non-technical person (a "[rubber ducky](http://en.wikipedia.org/wiki/Rubber_duck_debugging)"), then you should not submit that code.
-
-Learning by reading and understanding other people's code is one thing. Stealing code is another. This is particularly important for Solo Challenges, Assessments, and later, job interviews.
-
-### Googling Effectively
+#### Googling Effectively
 Learning to Google effectively actually takes some practice and skill.  It's an important skill for you to learn.  There are two main times you will Google or do online research:
 
 * To debug a code problem
 * To figure out where to start or go next when you get stuck.
 
-*Note: you may not understand all of these tips.  They should all make sense later in Phase 0*
+*Note: you may not understand all of these tips. They should all make sense later in Phase 0*
 
 #### 1) Error Messages
 If you are getting an error message, always google it in quotes first.
@@ -60,7 +52,7 @@ If you still can't find help, try breaking up your question into smaller questio
 
 Breaking down problems into smaller, more manageable pieces is the most important skill you will learn at DBC. Try to do it everywhere.
 
-### 3) Assess your results
+#### 4) Assess your results
 Once you get some results, make sure to ask:
 
 - How old is this post?
