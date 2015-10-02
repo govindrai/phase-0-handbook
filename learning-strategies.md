@@ -13,10 +13,12 @@ In order to be successful at Dev Bootcamp, students need to:
 4. Ask questions, even when they think they know
 5. Be excited to teach others
 5. Adopt, adapt, or create approaches to solving problems
+ 
+The Phase 0 program attempts to bring the DBC environment to your home in a way that helps you prepare for your new life and enter Phase 1 at a level where you feel prepared enough to be successful. That said, Phase 0 is a different beast than the on-site portion of Dev Bootcamp. Because you are remote, you need to be far more organized than you will when you get on-site. You will have to manage peer pairing, Guided Pairing Sessions, challenges per week, reflections, etc. It will take quite a bit of organizational work, so be ready for it. Phase 0 also requires you to communicate a lot. We depend on you to initiate a conversation when you are falling behind or having difficulty. You can't assume your Phase 0 Teacher will initiate contact in the event you fall behind. It is up to you to take Phase 0 seriously and to learn as much as you can. Instructors and facilitators are here to guide you and help you, but Dev Bootcamp relies on students taking the initiative to learn.
 
 *Also see [Learn to Code or Code to Learn?](http://devbootcamp.com/2014/02/17/learn-to-code-code-to-learn/)*
 
-## Strategies
+## Tips for Success
 Whatever your learning or thinking style, here are a few strategies you can try to incorporate to help you learn and succeed.
 
 1. **Take Breaks** Do not expect to will yourself to a solution through sheer effort without any breaks. If you find you are working for two hours and aren't making any progress, don't get frustrated, take a break. Spend time thinking about strategies without feeling guilty that you aren't coding. You'll be amazed at how much easier it is to solve problems after taking a break.
@@ -27,14 +29,12 @@ Whatever your learning or thinking style, here are a few strategies you can try 
 6. **Be true to you, pt. 1** Don't think you have to ascribe or assimilate to some stereotype of how you think programmers work. If you need to work with people, seek out your cohort mates, attend meet ups, pair with friends to get what you need. Don't lock yourself in a room for 12 hours while you bang your head against a wall hoping to figure it out because that's what you think programmers do. If you need to stop programming at a certain time, do it. Whatever you need, do it.
 7. **Be true to you, pt. 2** Also, recognize that you don't have to "fall in love" with coding. It's ok to be frustrated, it's also ok not to have fun occasionally when you're stuck. If you see coding as a means to an (awesome!) end, that's fine. If you see coding as a be all end all, that's fine too. Avoid comparing yourself to a stereotype or "typical programmer" that you've made up to determine your value, aptitude, or ability.
 
+##Things to be Aware Of
 
-## Success
-The Phase 0 program attempts to bring the DBC environment to your home in a way that helps you prepare for your new life and enter Phase 1 at a level where you feel prepared enough to be successful. That said, Phase 0 is a different beast than the on-site portion of Dev Bootcamp. Because you are remote, you need to be far more organized than you will when you get on-site. You will have to manage peer pairing, Guided Pairing Sessions, challenges per week, reflections, etc. It will take quite a bit of organizational work, so be ready for it. Phase 0 also requires you to communicate a lot. We depend on you to initiate a conversation when you are falling behind or having difficulty. You can't assume your Phase 0 Teacher will initiate contact in the event you fall behind. It is up to you to take Phase 0 seriously and to learn as much as you can. Instructors and facilitators are here to guide you and help you, but Dev Bootcamp relies on students taking the initiative to learn.
-
-## Not for Everyone
+### Not for Everyone
 That said, the Dev Bootcamp experience is not for everyone. The curriculum condenses an inordinate amount of information into 9 weeks, and the rigor, pace, and teaching style does not suit every student's needs. It is important to be honest with yourself and your teachers if this teaching style does not suit your learning needs.
 
-####Yellow flags
+### Yellow flags
 We gauge a student's fit in Phase 0 and Dev Bootcamp through their kindness, integrity, and effort that they put into the program. Participation and communication are key components. Students who demonstrate any or a combination of the indicators below may be put on a path for monitoring or being asked to leave. These indicators, or Yellow flags include, but are not limited to:
 
 - Leaving challenges unfinished
@@ -49,5 +49,5 @@ We gauge a student's fit in Phase 0 and Dev Bootcamp through their kindness, int
 - Failing to submit or rate feedback
 - Not submitting the Reflections
 
-####Getting asked to leave
+### Getting asked to leave
 It's not our goal to kick people out of the program. It *is* our goal to identify people who will not thrive at Dev Bootcamp. We take the decision to ask a student to leave seriously, and we do so after considerable thought. Having one yellow flag emerge during the course of Phase 0 is NOT a deal-breaker in and of itself, but showing a combination or repeatedly demonstrating any of these indicators is a problem.
