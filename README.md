@@ -18,12 +18,8 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 3. [Peer-Pairing Sessions](peer-pairing-sessions.md)
 4. [Feedback](feedback.md)
 5. [Solo Challenges](solo-challenges.md)
-6. [Submitting Weekly Challenges](submitting-challenges.md)
-7. [Accountability Groups](accountability-groups.md)
-
-## Getting Help
-
-1. [Office Hours](office-hours.md)
+6. [Accountability Groups](accountability-groups.md)
+7. [Office Hours](office-hours.md)
 
 ## Other Important Resouces
 
