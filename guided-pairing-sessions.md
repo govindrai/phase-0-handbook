@@ -27,16 +27,16 @@ The GPS schedule is as follows:
 
     Unit 1:
      - Week 1: Introductory Session
-     - Week 2: GPS 1.1 Git workflow and Branching
-     - Week 3: GPS 1.2 HTML + CSS
+     - Week 2: GPS 1.1 Git Workflow and Version Control
+     - Week 3: GPS 1.2 HTML
 
     Unit 2
-     - Week 4: GPS 2.1 Methods and Looping in Ruby
-     - Week 5: GPS 2.2 Looping and Accessing Data in Ruby
-     - Week 6: GPS 2.3 Nested Objects in Ruby
+     - Week 4: GPS 2.1 CSS
+     - Week 5: GPS 2.2 Ruby
+     - Week 6: GPS 2.3 Ruby
 
     Unit 3
-     - Week 7: GPS 3.1 Ruby Classes and Object-Oriented design
+     - Week 7: GPS 3.1 Ruby
 
 ### Tips and Reminders
 
