@@ -25,7 +25,7 @@ It is up to each student to arrange pairing sessions. We suggest posting on a di
 * You must pair on "Mandatory Pairing" challenges.
 * Guided Pairing Sessions (GPS) DO NOT count as peer-pairing sessions.
 * The number of peer pairing sessions you complete is self reported and on an honor system.
-* You must give feedback to your pair after every session in the Feedbackinator.
+* You must give feedback to your pair after every session in the Feedback App.
 
 ## Courtesy
 
