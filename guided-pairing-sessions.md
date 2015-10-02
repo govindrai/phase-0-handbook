@@ -102,9 +102,17 @@ These sessions are intended to help you become a better pair, have a stronger co
 
 ##Feedback and Transparency
 
-At the end of the session, the guide will give you verbal feedback on how they think the session went. The guide then will give you written feedback via email. This feedback will give you specifics on your code and how the session went. This feedback will also give you an idea if you are ahead, on track, behind, or struggling in in both cultural and technical competencies. This feedback is not meant to be a grade. It is meant to give you an better understanding of your current progress and where you can improve.
+At the end of the session, the guide will give you verbal feedback on how they think the session went. The guide then will give you written feedback in Canvas (instructure.devbootcamp.com). This feedback will give you specifics on your code and how the session went. Based on this feedback, you should have a good sense if you are on track, behind, or struggling in in both cultural and technical competencies. 
 
-*Please Note: If you receive a message that says you are behind or struggling, you must reach out to someone on the Phase 0 Team to discuss a plan to make sure you stay on track during Phase 0. If you are getting consistent feedback of being behind or struggling you will be told you need to repeat the unit. If you continue to get feedback of being behind or struggling on your second time through, you will be asked to leave the program.
+This feedback is not meant to be a grade, even though it might look like it. It is meant to give you an better understanding of your current progress and where you can improve. Each learning outcome is technically out of 3 points although a rubric will put it at 5. If you get a 3/5 that is excellent - it is not a low grade. 
+
+Grading Scale:
+* Exceeds Expectations: 5 pts
+* Meets Expectations: 3 pts
+* Slightly Below: 1 pt
+* Does not meet: 0 points
+
+*Please Note: If you feel you are behind or struggling, you must reach out to your teacher to discuss a plan to make sure you stay on track during Phase 0. If you are getting consistent feedback of being behind or struggling you will be told you need to repeat the unit. If you continue to get feedback of being behind or struggling on your second time through, you will be asked to leave the program.
 
 We are sharing feedback in this format for a couple of reasons:
 
