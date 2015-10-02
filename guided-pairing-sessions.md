@@ -102,7 +102,7 @@ These sessions are intended to help you become a better pair, have a stronger co
 
 ##Feedback and Transparency
 
-At the end of the session, the guide will give you verbal feedback on how they think the session went. The guide then will give you written feedback in Canvas (instructure.devbootcamp.com). This feedback will give you specifics on your code and how the session went. Based on this feedback, you should have a good sense if you are on track, behind, or struggling in in both cultural and technical competencies. 
+At the end of the session, the guide will give you verbal feedback on how they think the session went. The guide then will give you written feedback in Canvas (devbootcamp.instructure.com). This feedback will give you specifics on your code and how the session went. Based on this feedback, you should have a good sense if you are on track, behind, or struggling in in both cultural and technical competencies. 
 
 This feedback is not meant to be a grade, even though it might look like it. It is meant to give you an better understanding of your current progress and where you can improve. Each learning outcome is technically out of 3 points although a rubric will put it at 5. If you get a 3/5 that is excellent - it is not a low grade. 
 
@@ -120,4 +120,4 @@ We are sharing feedback in this format for a couple of reasons:
 2. We want you to know whether you are on the track for further success at Dev Bootcamp
 3. We believe that you will be able to better tailor your preparation and progress in Phase 0 with this information
 
-You are also required to leave feedback for your pair in the Feedbackinator. If you end up pairing with a guide you are not required to leave feedback for them. If you do want to share feedback with your guide feel free to email them.
+You are also required to leave feedback for your pair in the Feedback App. If you end up pairing with a guide you are not required to leave feedback for them. If you do want to share feedback with your guide feel free to email them.
