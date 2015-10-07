@@ -43,7 +43,7 @@ What we mean to say is, if you are stuck and can't get a working solution, DO NO
 
 Even if these strategies do not lead you to a working solution, it's better that you include something that is your work with an explanation of what's wrong with it, and not a working copy of someone else's code. It is your responsibility to be able to explain **every. single. piece** of code and why it's necessary. You are not getting a grade on solo challenges, so let yourself take the time you need to work on the challenge in a way that helps you learn.
 
-There has been some confusion on researching and plagiarism in the past because programming is often a collaborative experience, and even senior developers will look up solutions. That is generally ok, but there are exceptions. Solo challenges and hiring challenges are exceptions to this norm. Instructors and employers want to see what you can do on your own, how you solve problems, and how you think. That is why it is critical to ensure that everything you write in your solo challenge came from your brain.
+There has been some confusion on researching and plagiarism in the past because programming is often a collaborative experience, and even senior developers will look up solutions. That is generally ok, but there are exceptions. Solo challenges and hiring challenges are exceptions to this norm. Guides and employers want to see what you can do on your own, how you solve problems, and how you think. That is why it is critical to ensure that everything you write in your solo challenge came from your brain.
 
 If we suspect the work you submitted is not your own, which we determine from seeing if you understand exactly what it's doing from your pseudocode, refactoring, and reflection, we will contact you to set up a meeting to discuss your code.
 
@@ -51,11 +51,11 @@ If we suspect the work you submitted is not your own, which we determine from se
 
 ## Code Review and Feedback
 
-You will receive a code review and feedback four times in Phase 0 on your solo challenges for weeks 3, 5-7. This gives the instructors time to comment and give you feedback. Each instructor has his/her own style, but many will focus on what you can do to improve. It may sound crazy, but each review takes at least 15 minutes, so we focus on areas of improvement. We want you to think of feedback as helpful to your growth, not an indicator of failure. If you were a perfect programmer, why would you be coming to Dev Bootcamp?
+You will receive a code review and feedback four times in Phase 0 on your solo challenges for weeks 3, 5-7. This gives the guides time to comment and give you feedback. Each guide has his/her own style, but many will focus on what you can do to improve. It may sound crazy, but each review takes at least 15 minutes, so we focus on areas of improvement. We want you to think of feedback as helpful to your growth, not an indicator of failure. If you were a perfect programmer, why would you be coming to Dev Bootcamp?
 
 We will evaluate your code to see if you are learning the objectives we are covering. If you seem to be not meeting expectations, we will set up a meeting to see how we can help you. You will not be kicked out of the program for having a hard time with one challenge. If you seem to be struggling with the concepts, we will consult your other solo challenges to see how you did with those and come up with a plan.
 
-If you have any questions regarding feedback you received, you should feel free to reach out to your cohort lead.
+If you have any questions regarding feedback you received, you should feel free to reach out to your teacher.
 
 You will receive feedback for four of your solo challenges. The schedule is below:
 

@@ -18,14 +18,14 @@ As part of Phase 0, students are expected to pair program with another student i
 
 While it is not mandatory, we encourage students to pair with a different person in each session. This ensures you do not get used to just one person's unique pairing style. We also recommend pairing twice per week, but this is flexible. You can pair more in one week and less in the next.
 
-It is up to each student to arrange pairing sessions. We suggest posting in the Google+ community to request a pairing session. In your post, it helps to state a time/times (including a time zone) and the challenge you want to pair on. Once another student says they are avalible to pair, you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
+It is up to each student to arrange pairing sessions. We suggest posting on a discussion board in Canvas (devbootcamp.instructure.com) to request a pairing session. In your post, it helps to state a time/times (including a time zone) and the challenge you want to pair on. Once another student says they are avalible to pair, you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
 
 * A peer pairing session must be 45 minutes.
 * You can work on any of the challenges for the week except for the solo challenges.
 * You must pair on "Mandatory Pairing" challenges.
 * Guided Pairing Sessions (GPS) DO NOT count as peer-pairing sessions.
 * The number of peer pairing sessions you complete is self reported and on an honor system.
-* You must give feedback to your pair after every session in the Feedbackinator.
+* You must give feedback to your pair after every session in the Feedback App.
 
 ## Courtesy
 
