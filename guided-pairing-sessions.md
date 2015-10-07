@@ -19,7 +19,7 @@ Each student is required to attend six Guided Pairing Sessions (GPS) during Phas
 
 Sessions will be posted by noon the Friday before the week starts on the [Phase 0 App](https://phase0.devbootcamp.com). It is vital to sign up for these sessions by Sunday in order to complete the session in the week it is assigned. We only make one session for each student so you need to make it a priority to sign up early in order to find a session that works in your schedule. 
 
-**If you do not complete the GPS in the week it is assigned, we cannot guarentee you will be able to stay in the cohort you are currently in. You will be forced to repeat that unit. Makeup sessions will only be given for emergencies.**
+**If you do not complete the GPS in the week it is assigned, we cannot guarantee you will be able to stay in the cohort you are currently in. You will be forced to repeat that unit. Makeup sessions will only be given for emergencies.**
 
 If you are marked absent from a session you've signed up for, you will receive an email that states you are out of integrity, one of the three agreements, with Dev Bootcamp. It then is up to you to reach out the the Phase 0 Team to get back in integrity.
 
