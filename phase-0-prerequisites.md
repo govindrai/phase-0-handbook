@@ -9,7 +9,7 @@ Before you can start Phase 0, you will need to complete a few administrative req
 
 Here is a rough timeline of what you can expect from now until your start date:
 * Right now you should be working on these prerequisites. These must be done before your start date.
-* You will hear from us about a week before your start date. At this time we will help you get set up with the systems you will need to use in Phase 0 (Socrates, Phase 0 app, etc). So please do not try to log into the Phase 0 app or Socrates until after we have emailed you saying that you have been added to our systems, you will not have access yet.
+* You will hear from us about a week before your start date. At this time we will help you get set up with the systems you will need to use in Phase 0 (Canvas, Phase 0 app, etc). So please do not try to log into the Phase 0 app or Canvas until after we have emailed you saying that you have been added to our systems, you will not have access yet.
 * The week before you start Phase 0, you will also gain access to Canvas, our Learning Management System you will be using for Phase 0. Once you have access to this you will get instructions on how to setup your computer's development environment. You will also have a few other activities to complete in the week before you start. Please plan on spending about 5-15 hours on your Week 0 material.
 * During the first week of Phase 0 you will have an Intro Session with a member of the Phase 0 Team to make sure you have all your questions answered and are ready to hit the ground running. These intro sessions are only offered during business hours (9:00AM PST to 6:00PM PST).
 
@@ -30,7 +30,7 @@ We also do not suggest students quit their full time job before starting the pro
 
 
 #### 1. Create Accounts
-You will need each of these accounts prior to Phase 0, and we will ask you to provide links in your Socrates (our student application) profile when you receive your welcome email in the week prior to starting Phase 0.
+You will need each of these accounts prior to Phase 0.
 
 - [GitHub](https://github.com/)<br> You will start using GitHub on the first day of Phase 0, so please create an account. GitHub is where your Dev Bootcamp code will be stored and will also become your technical resume when you start applying for jobs. (You may want to select your username with that in mind).
 
