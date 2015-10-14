@@ -10,7 +10,7 @@ Another important thing to note about this learning style is it's not necessaril
 
 **During Phase 0 there will be things you are expected to complete. Here is a high level look at these expectations then you can go to that section of the Handbook to get more information.**
 
-* Six [Guided Pairing Sessions](guided-pairing-sessions.md) divided between the three units
+* Six [Guided Pairing Sessions](guided-pairing-sessions.md)
 
 * Two [Peer-Pairing Sessions](peer-pairing-sessions.md) per week (this is not true for the first week)
 
@@ -18,13 +18,13 @@ Another important thing to note about this learning style is it's not necessaril
 
 * [Submitting](submitting-challenges.md) all the challenges and reflections as specified in the Curriculum at the end of the week
 
-* Four [solo challenges](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) that will be used for code reviews
+* All [solo challenges](https://github.com/Devbootcamp/phase-0-handbook/blob/master/solo-challenges.md) (Four of these will be used for code reviews).
 
 * You will be expected to put in at least 15-25 hours of work per week (depending on previous experience)
 
 ### Repeating in Phase 0
 
-If you are having a hard time keeping up with the material or grasping the concepts, repeating a unit is a tool you can use to catch up. When you repeat, you will get a second chance with the challenges you did not feel comfortable with or ones you struggled to complete.
+If you are having a hard time keeping up with the material or grasping the concepts, repeating a unit (Unit 1: Weeks 1-3, Unit 2: Weeks 4-6, Unit 3: Weeks 7-9) is a tool you can use to catch up. When you repeat, you will get a second chance with the challenges you did not feel comfortable with or ones you struggled to complete.
 
 Here are a few things to note if you are considering repeating a Unit of Phase 0:
 * There is a $250 change fee because your spot in your original cohort will go unfilled.
