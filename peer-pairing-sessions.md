@@ -17,7 +17,7 @@ While it is not mandatory, we encourage students to pair with a different person
 
 It is up to each student to arrange pairing sessions. We suggest posting on a discussion board in Canvas (devbootcamp.instructure.com) to request a pairing session. In your post, it helps to state a time/times (including a time zone) and the challenge you want to pair on. Once another student says they are avalible to pair, you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
 
-* A peer pairing session must be 45 minutes.
+* A peer pairing session must be at least 45 minutes.
 * You can work on any of the challenges for the week except for the solo challenges.
 * You must pair on "Mandatory Pairing" challenges.
 * Guided Pairing Sessions (GPS) DO NOT count as peer-pairing sessions.
