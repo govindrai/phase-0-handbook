@@ -15,7 +15,7 @@ In simplest form, this means being honest. One way to embody integrity is doing 
 - Asking for help
 - Submitting and rating feedback
 - Posting and responding to questions on the community
-- Completeing every part of the process outlined in each challenge
+- Completing every part of the process outlined in each challenge
 
 Part of being in integrity also means that if you fall out of integrity, for whatever reason. you own up to it.  Most of the time all it takes is an acknowledgment of being out of integrity and everybody can move on.
 
