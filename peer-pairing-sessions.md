@@ -7,7 +7,7 @@
 
 Pair programming has gained in popularity among companies by enabling developers to learn from each other and make fewer mistakes. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. The skills needed to be a good pair will strengthen with practice, which is why we have incorporated pair programming into Phase 0!
 
-Read [Pair Programming Considered Extremely Beneficial](http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/)  to further understand the benifits of pair programming.
+Read [Pair Programming Considered Extremely Beneficial](http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/)  to further understand the benefits of pair programming.
 
 ## Expectations
 
