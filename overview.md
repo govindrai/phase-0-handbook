@@ -2,7 +2,7 @@
 
 # Welcome to Dev Bootcamp's Phase 0!
 
-Now that you have sucessfully completed all your [Phase 0 Prerequisites](https://github.com/Devbootcamp/phase-0-handbook/blob/master/phase-0-prerequisites.md) you are ready to start the jouney of Phase 0!
+Now that you have sucessfully completed all your [Phase 0 Prerequisites](https://github.com/Devbootcamp/phase-0-handbook/blob/master/phase-0-prerequisites.md) you are ready to start the journey of Phase 0!
 
 Phase 0 aims to familiarize you to the learning culture we foster at Dev Bootcamp. Dev Bootcamp is not a traditional school. We expect each person to be here because they want to be here and they want to become a web developer. To that effect, we expect each person to take responsibility for their own learning, which includes exposing their ignorance, tracking their own progress, and reaching out when they have questions or need help. Dev Bootcamp is fundamentally about learning with a community, and this community will provide support and guidance you need to accomplish your goal. The Phase 0 staff are only a small part of that community. Your peers will be the main support you have during the Phase 0 (and Dev Bootcamp) journey. The Phase 0 staff is here to provide support; we just ask that you initiate the conversation.
 
