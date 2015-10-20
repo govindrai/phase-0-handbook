@@ -1,4 +1,4 @@
-During your first week of Phase 0, you will have an intro session with your Teacher. These sessions will be schedueled to last an hour and will all be held between the hours of 9:00am PST and 6:00pm PST.
+During your first week of Phase 0, you will have an intro session with your Teacher. These sessions will be scheduled to last an hour and will all be held between the hours of 9:00am PST and 6:00pm PST.
 
 The purpose of these sessions are:
 
