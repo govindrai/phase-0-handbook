@@ -2,7 +2,7 @@
 
 ### Applies to
 
-This policy governs the behavior of students, guides and staff in Phase 0. This includes in blog posts, on the Google+ community, while you are pairing with other students, leaving feedback and any other interaction/communication with people associated with DBC. In addition to this policy covering the Phase 0 space, it also covers students, alumni, staff and guests in our locations spaces or any gathering related to DBC.  The Bootcamp Education, Inc. Sexual Harassment policy overrides anything in this policy.
+This policy governs the behavior of students, guides and staff in Phase 0. This includes in blog posts, on any Phase 0 discussion boards (such as Canvas discussions), while you are pairing with other students, leaving feedback and any other interaction/communication with people associated with DBC. In addition to this policy covering the Phase 0 space, it also covers students, alumni, staff and guests in our locations spaces or any gathering related to DBC.  The Bootcamp Education, Inc. Sexual Harassment policy overrides anything in this policy.
 
 **We expect participants to follow these rules at the Dev Bootcamp space (including all online spaces, communities, and interactions) and all related social events.**
 
