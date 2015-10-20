@@ -17,7 +17,7 @@ In simplest form, this means being honest. One way to embody integrity is doing 
 - Posting and responding to questions on the community
 - Completing every part of the process outlined in each challenge
 
-Part of being in integrity also means that if you fall out of integrity, for whatever reason. you own up to it.  Most of the time all it takes is an acknowledgment of being out of integrity and everybody can move on.
+Part of being in integrity also means that if you fall out of integrity, for whatever reason, you own up to it.  Most of the time all it takes is an acknowledgment of being out of integrity and everybody can move on.
 
 ## The Second Agreement: Kindness
 We also expect every person to be kind to one another. Kindness does not mean "nice;" they are actually not the same thing. Being kind does mean being friendly, generous, and considerate, but it does also means giving constructive, truthful feedback as long as it is <strong>A</strong>ctionable, <strong>S</strong>pecific, and <strong>K</strong>ind (ASK). This might also include a difficult, but necessary, conversation.
