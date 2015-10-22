@@ -1,31 +1,33 @@
+<img src="https://github.com/Devbootcamp/graphic-assets/blob/master/logos/DBC_HORIZONTAL%20LOGO/2_COLOR/RGB/DBC_H_2C_RGB.png">
+
 # Phase 0 Student Handbook
 
+This handbook is designed to help orient students to the Phase 0 experience. Please take the time to read each section. If you have any questions, please contact The Phase 0 Team at [phase0@devbootcamp.com](mailto:phase0@devbootcamp.com) or ask your teacher in your introductory session during your first week of Phase 0.
 
-This handbook is designed to help orient students to the Phase 0 experience. Please take the time to read each section. If you have any questions, please contact The Phase 0 Team at [phase0@devbootcamp.com](mailto:phase0@devbootcamp.com) or ask your instructor in your introductory session during your first week of Phase 0.
+## While you wait to start Phase 0
+- [Phase 0 Prerequisites](phase-0-prerequisites.md)
 
-## The Basics
+## Overview, Policies, and Contact
+- [Welcome!](overview.md)
+- [The Three Agreements and our Code of Conduct](three-agreements.md)
+- [Anti-Harassment Policy](anti-harassment-policy.md)
+- [Contact Us](contact-and-support-list.md)
 
-1. [Welcome!](overview.md)
-2. [Phase 0 Prerequisites](phase-0-prerequisites.md)
-3. [The Three Agreements](three-agreements.md)
-4. [Anti-Harassment Policy](anti-harassment-policy.md)
-5. [Contact and Support List](contact-and-support-list.md)
+## Components of Phase 0
 
-## To Do List
+- [Intro Sessions](intro-session.md)
+- [Guided Pairing Sessions](guided-pairing-sessions.md)
+- [Peer-Pairing Sessions](peer-pairing-sessions.md)
+- [Feedback](feedback.md)
+- [Solo Challenges](solo-challenges.md)
+- [Accountability Groups](accountability-groups.md)
+- [Office Hours](office-hours.md)
 
-1. [Intro Sessions](intro-session.md)
-2. [Guided Pairing Sessions](guided-pairing-sessions.md)
-3. [Peer-Pairing Sessions](peer-pairing-sessions.md)
-4. [Feedback](feedback.md)
-5. [Solo Challenges](solo-challenges.md)
-6. [Accountability Groups](accountability-groups.md)
-7. [Office Hours](office-hours.md)
+## Important Resources
 
-## Other Important Resouces
-
-1. [Pairing in Phase 0](pairing-in-phase-0.md)
-2. [Learning Strategies](learning-strategies.md)
-3. [Research, Debugging, and Google](research-debugging-and-google.md)
-4. [Sublime Text Hotkeys](hotkeys.md)
-5. [FAQ's](FAQ.md)
-6. [Phase 0 Reading/Resource List](resources.md)
+- [Pairing in Phase 0](pairing-in-phase-0.md)
+- [Learning Strategies](learning-strategies.md)
+- [Research, Debugging, and Google](research-debugging-and-google.md)
+- [Sublime Text Hotkeys](hotkeys.md)
+- [FAQ's](FAQ.md)
+- [Phase 0 Reading/Resource List](resources.md)

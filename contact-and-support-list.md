@@ -1,12 +1,14 @@
 [Table of Contents](README.md)
 
 # Contact and Support List
-1. **Any Phase 0 questions, concerns or feedback** contact <mailto:phase0@devbootcamp.com><br>
-2. **For billing, tuition, payments, refund policies etc.** contact <mailto:ap@devbootcamp.com>
-3. **To change your cohort or withdraw PRIOR to Phase 0** contact <mailto:applications@devbootcamp.com>
-<br>
+1. **Any Phase 0 questions, concerns or feedback** (prior to starting Phase 0): <mailto:phase0@devbootcamp.com><br>
+2. **Billing, tuition, payments, refund policies etc.**:<mailto:ar@devbootcamp.com>
+3. **To change your cohort or withdraw PRIOR to your Phase 0 start date**:<mailto:applications@devbootcamp.com>
+4. **Phase 0 questions (on or after your Phase 0 start date)** contact your teacher directly through the [Canvas inbox](https://devbootcamp.instructure.com).
 
-## Email Etiquette and Notes: 
-- If you send an email, please wait to 24 hours to receive a response, and if you don't hear back, please reply to the thread you initiated (instead of opening a brand new thread). The more emails and different threads we get, the more time it will take to process.
-- Global Staff work from 9am-6pm PST Monday through Friday. We do not work on weekends which means we are not checking our email or the discussion boards in Canvas. We will get to any emails as soon as possible when we are back in the office on Monday.
-- Please only email the addresses above. To ensure the best customer service, we require all emails to be trackable in our system. Emailing a person directly will require them to forward your email to the address, thereby slowing the response time.
+Please refrain from reaching out via other channels as this will increase your wait time.
+
+Please note: Our office hours are from 9am-6pm Monday through Friday (depending on your teacher's time zone). We are not available to respond on weekends. We prioritize responding to emails as soon as possible when we are back in the office on Monday.
+
+If you send an email after business hours on Friday or on the weekend, please wait until mid-Monday to follow up if you haven't received a response.
+

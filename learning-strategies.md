@@ -3,7 +3,7 @@
 ## Our Approach to Learning
 Dev Bootcamp requires you to acclimate to a new learning environment and mindset. You will be confronted daily by your own limitations whether they be technical or cultural. Moreover, you will not be able to rely on grades to figure out how you are doing. You will have to assess yourself and determine whether you are progressing at a rate that satisfies you.
 
-Our educational model is fundamentally different from those offered in traditional institutions. A Dev Bootcamp instructor's role is to act as a guide and resource, rather than a transmitter of information or an "expert." You will learn new information and technologies through challenges, not lecture. You will spend the majority of your time working and learning with a pair or group as well.
+Our educational model is fundamentally different from those offered in traditional institutions. A Dev Bootcamp teacher's role is to act as a guide and resource, rather than a transmitter of information or an "expert." You will learn new information and technologies through challenges, not lecture. You will spend the majority of your time working and learning with a pair or group as well.
 
 In order to be successful at Dev Bootcamp, students need to:
 
@@ -13,7 +13,7 @@ In order to be successful at Dev Bootcamp, students need to:
 4. Ask questions, even when they think they know
 5. Be excited to teach others
 5. Adopt, adapt, or create approaches to solving problems
- 
+
 The Phase 0 program attempts to bring the DBC environment to your home in a way that helps you prepare for your new life and enter Phase 1 at a level where you feel prepared enough to be successful. That said, Phase 0 is a different beast than the on-site portion of Dev Bootcamp. Because you are remote, you need to be far more organized than you will when you get on-site. You will have to manage peer pairing, Guided Pairing Sessions, challenges per week, reflections, etc. It will take quite a bit of organizational work, so be ready for it. Phase 0 also requires you to communicate a lot. We depend on you to initiate a conversation when you are falling behind or having difficulty. You can't assume your Phase 0 Teacher will initiate contact in the event you fall behind. It is up to you to take Phase 0 seriously and to learn as much as you can. Instructors and facilitators are here to guide you and help you, but Dev Bootcamp relies on students taking the initiative to learn.
 
 *Also see [Learn to Code or Code to Learn?](http://devbootcamp.com/2014/02/17/learn-to-code-code-to-learn/)*

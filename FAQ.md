@@ -1,10 +1,9 @@
 [Table of Contents](README.md)
 
 # Frequently Asked Questions
-This will be updated as you ask questions on the Google+ community.
 
 **Q: Are Introductory Sessions on Skype or Google?**<br>
-**A:** From this point, all of our sessions will be conducted via Google Hangout. Please sign up for your introductory session on the [Phase 0 app](https://phase0.devbootcamp.com). 
+**A:** From this point, all of our sessions will be conducted via Google Hangout or in the conferences tab in Canvas. Please sign up for your introductory session on the [Phase 0 app](https://phase0.devbootcamp.com).
 
 **Q: How do I change my DBC email address?** <br>
 **A:** Email phase0@devbootcamp.com and someone will be able to help you.
@@ -26,10 +25,10 @@ Building hours for New York City and San Francisco are 7:00am - 2:00am. Students
 In Chicago, the building is open 24/7, but students are not allowed to stay the night.
 
 **Q: Is DBC closed on US federal holidays?**<br>
-**A:** DBC only honors the following holidays that occur during phases: Thanksgiving, Independence Day (July 4), and New Year's Day. During those days, the staff has the day off, but the curriculum is still up and needs to be completed. Phase 0 staff honor the following additional holidays: Martin Luther King, Jr. Day, Memorial Day, Labor Day, and the day after Thanksgiving. 
+**A:** DBC only honors the following holidays that occur during phases: Thanksgiving, Independence Day (July 4), and New Year's Day. During those days, the staff has the day off, but the curriculum is still up and needs to be completed. Phase 0 staff honor the following additional holidays: Martin Luther King, Jr. Day, Memorial Day, Labor Day, and the day after Thanksgiving.
 
 **Q: I'm thinking of getting a new laptop. What are your suggestions?**<br>
-**A:** We have a [document](https://docs.google.com/document/d/13JGWKAjjdx7-0kpLCmBQN2i5C5xhlgnVflj6CuQrvMk/edit?usp=sharing) written by a former student with some info on laptops. This is not super official DBC policy or anything, but hopefully it helps. 
+**A:** We have a [document](https://docs.google.com/document/d/13JGWKAjjdx7-0kpLCmBQN2i5C5xhlgnVflj6CuQrvMk/edit?usp=sharing) written by a former student with some info on laptops. This is not super official DBC policy or anything, but hopefully it helps.
 
 **For many other questions**<br>
 Make sure you read through the handbook thoroughly. Substitute "Phase 0 Handbook" for "Syllabus" in the following cartoon.
