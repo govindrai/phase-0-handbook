@@ -18,9 +18,9 @@ Each GPS challenge is designed to reinforce the learning competencies covered up
 
 Each student is required to attend six Guided Pairing Sessions (GPS) during Phase 0. Sessions are based on what week you are currently in and follow a specific curriculum. For this reason, they are only offered during the week they are assigned.
 
-You may sign up for the Unit's sessions by noon the Friday before the unit starts on the [Phase 0 App](https://phase0.devbootcamp.com). There is one small exception: if you are in Unit 1, you will be able to sign up for GPS the day after your session. It is vital to sign up for GPS by Sunday in order to complete the session in the week it is assigned. We only make one session for each student so make it a priority to sign up early in order to find a session that works in your schedule.
+You may sign up for the upcoming 3 week's sessions by noon the Friday before the unit starts on the [Phase 0 App](https://phase0.devbootcamp.com). There is one small exception: if you are in Week 1, you will be able to sign up for your first GPS the day after your introductory session. It is vital to sign up for GPS by Sunday in order to complete the session in the week it is assigned. We only make one session for each student so make it a priority to sign up (and attend!) early to find a session that works in your schedule.
 
-**If you do not complete the GPS in the week it is assigned, we cannot guarantee you will be able to stay in the cohort you are currently in. You will be forced to repeat that unit. Makeup sessions will only be given for emergencies.**
+**If you do not complete the GPS in the week it is assigned, we cannot guarantee you will be able to stay in the cohort you are currently in. You will be forced to move to the next cohort and re-submit all assignments to that point. Makeup sessions will only given for emergency-situations only.**
 
 If you are marked absent from a session you've signed up for, you will receive an email that states you are out of integrity, one of the three agreements, with Dev Bootcamp. It then is up to you to reschedule your session and reach out the the Phase 0 Team to get back in integrity.
 
