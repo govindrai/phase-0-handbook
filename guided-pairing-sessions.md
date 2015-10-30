@@ -60,9 +60,9 @@ Most guides will observe you and your pair work through a challenge and ask you 
 Although you have one hour with the guide, the challenges will often take longer. This means you will probably need to set aside another time to finish the challenge with your pair or on your own. After the hour is up, the guide will leave you on your own to finish the challenge.
 
 ## Success Guidelines
-GPS are intended to help you become a better pair, have a stronger connection to DBC, and to feel more confident with the material. That said, GPS are the main way we evaluate your progress and give you feedback in the program. Guided Pairing Sessions give us a better idea of whether Dev Bootcamp's learning environment is a good match for you.
+GPS are intended to help you become a better pair, have a stronger connection to DBC, and to feel more confident with the material. That said, GPS are the main way we evaluate your progress and give you feedback in the program. Evaluations in Guided Pairing Sessions are a good indicator of whether Dev Bootcamp's learning environment is a good match for you.
 
-Because these are used as evaluation tools, Guides are looking for specific things:
+Because these are evaluations, we will be looking for specific things:
 
 ### Culturally we are looking for your:
 
@@ -82,7 +82,7 @@ Because these are used as evaluation tools, Guides are looking for specific thin
 ### You will be successful in GPS if you:
 	- Express your opinions and ideas.
 	- Appoint a driver and navigator and swap roles with clear communication.
-	- Seek out and create space for your pair’s thoughts/opinions.
+	- Seek out and create space for your pair’s thoughts and opinions.
 	- Are considerate of your pair.
 	- Ask questions when you don’t understand something (Ask your pair before asking the guide).
 	- Discuss various options with your pair as well as pros and cons.
