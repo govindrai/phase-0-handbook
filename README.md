@@ -9,14 +9,13 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 
 ## Overview, Policies, and Contact
 - [Welcome!](overview.md)
-- [The Three Agreements and our Code of Conduct](three-agreements.md)
-- [Anti-Harassment Policy](anti-harassment-policy.md)
+- [Policies](policies.md)
 - [Changing Cohorts or Withdrawing](changing-cohorts.md)
 - [Contact Us](contact-and-support-list.md)
 
 ## Components of Phase 0
 
-- [Intro Sessions](intro-session.md)
+- [Introductory Sessions](intro-session.md)
 - [Guided Pairing Sessions](guided-pairing-sessions.md)
 - [Peer-Pairing Sessions](peer-pairing-sessions.md)
 - [Feedback](feedback.md)
