@@ -6,7 +6,7 @@ Due to the nature of software development, there are many resources and code sam
 
 In fact, sharing code, either as an open source project or teaching through blog posts or talks, is part of the ethos of many software developers and especially within the Ruby on Rails community.
 
-Learning to utilize Google and find solutions online is an essential part of learning to code and being a successful coder.
+Learning to utilize Google and find solutions online is an essential part of learning to code and being a successful developer.
 
 That said, it does not come without some murky ethical waters, particularly for students.
 
