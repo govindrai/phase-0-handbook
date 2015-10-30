@@ -1,3 +1,5 @@
+[Table of Contents](README.md)
+
 # Accountability Groups
 
 In Phase 0, you will have groups of 3-5 people to connect with each week. These groups aim to give you a core group of people you can work with, ask questions of, and generally get to know better.

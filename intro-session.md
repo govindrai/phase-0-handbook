@@ -1,10 +1,12 @@
-During your first week of Phase 0, you will have an intro session with your Teacher. These sessions will be scheduled to last an hour and will all be held between the hours of 9:00am PST and 6:00pm PST.
+[Table of Contents](README.md)
 
-The purpose of these sessions are:
+During your first week of Phase 0, you will have an introductory session with your Teacher. These sessions will be scheduled to last an hour and will all be held during the business hours in your Teacher's timezone. They are mandatory, so please make the necessary arrangements to attend a session. If you are working, it's possible to attend a session either before or after the day (depending on your timezone and your teachers) or during lunch.
+
+The purpose of these sessions are to:
 
 1. Introduce you to some of your cohort mates
 2. Make sure you have access to all our systems
-3. Cover a few high level/important points to make sure we are all on the same page
-4. Make sure all your questions are answered
+3. Review important guidelines, policies, and Phase 0 structure so you feel well acclimated to the program
+4. Answer any questions you have about Phase 0 or Dev Bootcamp on site
 
-These sessions are mandatory to attend. Also please note that you do NOT have to wait to start on your Week 1 challenges until you have your session.
+Please note that you do NOT have to wait to start on the Week 1 material until you have your session.
