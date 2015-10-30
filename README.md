@@ -4,7 +4,7 @@
 
 This handbook is designed to help orient students to the Phase 0 experience. Please take the time to read each section. If you have any questions, please contact The Phase 0 Team at [phase0@devbootcamp.com](mailto:phase0@devbootcamp.com) or ask your teacher in your introductory session during your first week of Phase 0.
 
-## While you wait to start Phase 0
+## Before you start Phase 0
 - [Phase 0 Prerequisites](phase-0-prerequisites.md)
 
 ## Overview, Policies, and Contact
