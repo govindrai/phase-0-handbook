@@ -11,6 +11,7 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 - [Welcome!](overview.md)
 - [The Three Agreements and our Code of Conduct](three-agreements.md)
 - [Anti-Harassment Policy](anti-harassment-policy.md)
+- [Changing Cohorts or Withdrawing](changing-cohorts.md)
 - [Contact Us](contact-and-support-list.md)
 
 ## Components of Phase 0
