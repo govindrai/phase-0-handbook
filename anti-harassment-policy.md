@@ -20,9 +20,8 @@ Dev Bootcamp Staff will be happy to assist those experiencing harassment to feel
 
 ## Your Phase 0 contacts
 
-* Male: emmanuel@devbootcamp.com
-* Female: maria@devbootcamp.com
-
+* Male: Emmanuel Kaunitz <mailto:emmanuel@devbootcamp.com>
+* Female: Jennifer Gilbert <mailto:jennifer@devbootcamp.com>
 
 ---
 
