@@ -12,7 +12,7 @@ Guided Pairing Sessions are designed to do three main things:
 
 Phase 0 Guides use this time to see how students engage with one another, how they are progressing in terms of technical knowledge, and to help students develop a deeper understanding of technical material.
 
-Each GPS challenge is designed to reinforce the learning competencies covered up to and including the previous week's challenges. These sessions are opportunities for you to identify and clarify concepts that were confusing, as well as to get practice pairing. Sometimes GPS curriculum will address new concepts. In these instances, you are expected to research in the session and practice your researching abilities.
+Each GPS challenge is designed to reinforce the learning outcomes covered up to and including the previous week's challenges. These sessions are opportunities for you to identify and clarify concepts that were confusing, as well as to get practice pairing. Sometimes GPS curriculum will address new concepts. In these instances, you are expected to research in the session and practice your researching abilities.
 
 ## Expectations
 
