@@ -16,6 +16,7 @@ This handbook is designed to help orient students to the Phase 0 experience. Ple
 ## Components of Phase 0
 
 - [Introductory Sessions](intro-session.md)
+- [Canvas: Our Learning Management System](canvas.md)
 - [Guided Pairing Sessions](guided-pairing-sessions.md)
 - [Peer-Pairing Sessions](peer-pairing-sessions.md)
 - [Feedback](feedback.md)

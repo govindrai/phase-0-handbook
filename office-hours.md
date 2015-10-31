@@ -8,7 +8,7 @@ You can bring many issues and questions to Office Hours including, environment o
 
 There are two different types of office hours in Phase 0.
 
-- Instructor-led Office Hours (Business hours)
+- Teacher-led Office Hours (Business hours)
   - These office hours are available through [Canvas](https://devbootcamp.instructure.com). Look at the calendar to see when they are scheduled. If you want to attend, go to the "conferences" under the course menu.
   - These sessions are exclusive to students in your cohort.
   - These sessions are offered during the business day (M-F) with a few exceptions depending on the teacher.
