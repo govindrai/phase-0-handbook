@@ -7,7 +7,7 @@ Canvas will be the portal to the various other applications we use in Phase 0 as
 ## Introduction
 Get acquainted with Canvas by watching this demo video. Please note, the Phase 0 courses use the new user interface, whereas this video shows the old interface. The functionality is the same, but you will need to navigate through your course by clicking on the top left icon with three horizontal bars to get from page to page.
 
-<img src="https://player.vimeo.com/video/74677643?title=0&byline=0&portrait=0" width="500" height="284" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></img><p><a href="https://vimeo.com/74677643">Canvas Overview</a></p>
+<img src="https://player.vimeo.com/video/74677643?title=0&byline=0&portrait=0" width="500" height="284" frameborder="0"></img><p><a href="https://vimeo.com/74677643">Canvas Overview</a></p>
 
 You may also be interested in the [Canvas Student Guide](https://community.canvaslms.com/docs/DOC-4121).
 
