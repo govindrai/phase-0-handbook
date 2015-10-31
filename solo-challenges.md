@@ -2,12 +2,12 @@
 
 # Solo Challenges
 
-There are four challenges in the curriculum that will be labeled "Solo Challenges"
+There are four challenges in the curriculum that will be labeled "Solo Challenges."
 
 ## Purpose
-Solo challenges are designed to provide you the opportunity to work on your own and see how confident you are with the learning objectives. These challenges are meant to show you where you are in your abilities at the moment.
+Solo challenges are designed to provide you the opportunity to work on your own and see how confident you are with the learning outcomes. These challenges are meant to show you where you are in your abilities at the moment.
 
-From the teacher's perspective, solo challenges provide us with an example of your work. We use these to assess how you are doing and give you feedback. We want to see that you are following the process we've outlined (pseudocode, initial code, refactor, reflect) and are demonstrating your familiarity and ability to implement the objectives. We do not expect your code to be perfect; we expect it to show how you work through a problem on your own.
+From the teacher's perspective, solo challenges provide us with an example of your work. We use these to assess how you are doing and give you feedback. We want to see that you are following the process we've outlined (pseudocode, initial code, refactor, reflect) and are demonstrating your familiarity and ability to implement the learning outcomes. We do not expect your code to be perfect; we expect it to show how you work through a problem on your own.
 
 **Solo Challenges draw on the various learning competencies you are covering in that particular week, and are in the middle in terms of difficulty. It would be a good idea to go through the other challenges prior to completing the solo challenge.
 
@@ -52,7 +52,7 @@ If we suspect the work you submitted is not your own, which we determine from se
 
 You will receive a code review and feedback four times in Phase 0 on your solo challenges for weeks 3, 5-7. This gives the guides time to comment and give you feedback. Each guide has his/her own style, but many will focus on what you can do to improve. It may sound crazy, but each review takes at least 15 minutes, so we focus on areas of improvement. We want you to think of feedback as helpful to your growth, not an indicator of failure. If you were a perfect programmer, why would you be coming to Dev Bootcamp?
 
-We will evaluate your code to see if you are learning the objectives we are covering. If you seem to be not meeting expectations, we will set up a meeting to see how we can help you. You will not be kicked out of the program for having a hard time with one challenge. If you seem to be struggling with the concepts, we will consult your other solo challenges to see how you did with those and come up with a plan.
+We will evaluate your code to see if you are demonstrating the learning outcomes. If you seem to be not meeting expectations, we will set up a meeting to see how we can help you. You will not be kicked out of the program for having a hard time with one challenge. If you seem to be struggling with the concepts, we will consult your other solo challenges to see how you did with those and come up with a plan.
 
 If you have any questions regarding feedback you received, you should feel free to reach out to your teacher.
 

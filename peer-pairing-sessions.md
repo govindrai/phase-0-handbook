@@ -2,33 +2,31 @@
 
 # Peer-Pairing Sessions
 
-
 ## Purpose
 
-Pair programming has gained in popularity among companies by enabling developers to learn from each other and make fewer mistakes. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. The skills needed to be a good pair will strengthen with practice, which is why we have incorporated pair programming into Phase 0!
+Pair programming has gained in popularity among companies by enabling developers to learn from each other and make fewer mistakes. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. You will learn more effectively through pairing, and your pairing skills will only strengthen with practice. This is why Phase 0 utilizes pair programming as much as it does! (You should feel free to pair more often though)!
 
 Read [Pair Programming Considered Extremely Beneficial](http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/)  to further understand the benefits of pair programming.
 
 ## Expectations
 
-As part of Phase 0, students are expected to pair program with another student in their cohort, from any location, at least **2 times per week** (with the exception of Week 1). Each week has mandatory pairing challenges you will need to pair on.  
+As part of Phase 0, students are expected to pair program with another student in their cohort, from any location, at least **2 times per week** (with the exception of Week 1). Each week has mandatory pairing challenges you will need to pair on.
 
 While it is not mandatory, we encourage students to pair with a different person in each session. This ensures you do not get used to a couple people's pairing style. Pairing with many people will help you become a better pair!
 
-It is up to each student to arrange pairing sessions. We suggest posting on a discussion board in Canvas (devbootcamp.instructure.com) to request a pairing session. In your post, it helps to state a time/times (including a time zone) and the challenge you want to pair on. Once another student says they are avalible to pair, you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
+It is up to each student to arrange pairing sessions. We suggest posting on the discussion board in Canvas (devbootcamp.instructure.com) to request a pairing session. In your post, it helps to state a time/times (including a time zone) and the challenge you want to pair on. Once another student says they are available to pair, you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
 
-* A peer pairing session must be at least 45 minutes.
+* A peer pairing session must be at least 45 minutes to be counted as one of your sessions.
 * You can work on any of the challenges for the week except for the solo challenges.
 * You must pair on "Mandatory Pairing" challenges.
 * Guided Pairing Sessions (GPS) DO NOT count as peer-pairing sessions.
-* The number of peer pairing sessions you complete is self reported and on an honor system.
 * You must give feedback to your pair after every session in the Feedback App.
 
 ## Courtesy
 
-Please keep in mind that all students are busy and working hard to balance their non-DBC life (work, family, etc.) and Phase 0 requirements. If it turns out you can not make the session you've scheduled for any reason, please contact your pair as soon as possible. 
+Please keep in mind that all students are busy and work hard to balance their non-DBC life (work, family, etc.) and Phase 0 requirements. If it turns out you can not make the session you've scheduled for any reason, please contact your pair as soon as possible.
 
-Try your best to work from a quiet place with a reliable internet connection. It is usually helpful to have headphones for your sessions as well.
+Try your best to work from a quiet place with a reliable Internet connection. It is usually helpful to have headphones for your sessions as well.
 
 
 ## Success Guidelines

@@ -90,8 +90,8 @@ Because these are evaluations, we will be looking for specific things:
 	- Screenshare when appropriate to include your pair more fully.
 	- Let your pair know when you need thinking time instead of going silent.
 	- Experiment with the code and cultivate a spirit of play.
-	- Display familiarity with learning objectives.
-	- Use the knowledge you’ve gained to solve the challenge objectives.
+	- Display familiarity with learning outcomes.
+	- Use the knowledge you’ve gained to demonstrate the outcomes listed in the challenge.
 	- HAVE FUN!
 
 ### You will not be successful if you:

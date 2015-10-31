@@ -45,7 +45,7 @@ We gauge a student's fit in Phase 0 and Dev Bootcamp through their kindness, int
 - Missing Guided Pairing Sessions (GPS)
 - Missing scheduled peer-pairing sessions
 - Having difficulty engaging with a pair
-- Lacking the ability to demonstrate the learning objectives
+- Lacking the ability to demonstrate the learning outcomes
 - Failing to submit or rate feedback
 - Not submitting the Reflections
 
