@@ -4,9 +4,9 @@
 
 ###Submitting Feedback
 
-You must complete feedback using the [Feedback App](https://feedback.devbootcamp.com/) for every pairing session (GPS and Peer Pairing) you complete. Giving feedback is a mandatory aspect of Phase 0 and you will be asked to track your participation in an assignment.
+You must complete feedback using the [Feedback App](https://feedback.devbootcamp.com/) for every pairing session (GPS and Peer Pairing) you complete. Giving feedback is a mandatory aspect of Phase 0 and you will be asked to track your participation in an assignment in Canvas.
 
-Please watch [Engineering Empathy on Feedback](https://vimeo.com/99780302) prior to giving feedback for the first time for some guidelines on leaving good feedback. Writing good feedback is challenging and time consuming. But, it is important to make sure you are writing feedback that will help your pair grow as a partner and as a programmer.
+Please watch this [Engineering Empathy Video on Feedback](https://vimeo.com/99780302) prior to giving feedback for the first time for some guidelines. Writing good feedback is challenging and time consuming, but, it is important to make sure you are writing feedback that will help your pair grow as a partner and as a programmer.
 
 ### Meta Feedback
 
@@ -14,7 +14,7 @@ In order to make sure you and your pairs receive the feedback you've each submit
 
 **All feedback must be anonymous to protect privacy.**
 
-It is mandatory you abstain from writing your pair's name or your own name anywhere in the free-form text. Since students review each piece of feedback and rate it for actionability, specificity, and kindness it should not be public who the feedback is coming from or going to. This is extremely important to make receiving feedback a safe and positive experience.
+It is mandatory you **abstain from writing your pair's name or your own name anywhere in the free-form text**. Since students review each piece of feedback and rate it for actionability, specificity, and kindness it should not be public who the feedback is coming from or going to. This is extremely important to make receiving feedback a safe and positive experience.
 
 Please Note: Feedback is not editable, by you as a student or by the Phase 0 Team as admins, in the app once it's submitted.
 
