@@ -44,7 +44,7 @@ Your teacher will post office hours as conferences, so this will be where you go
 When you first log in to Canvas you will see an activity page and todo list as well as recent feedback, so be sure to check that out as well. There is also a Calendar you can use to help you stay organized as well as an inbox where you can email your teacher or cohort-mates.
 
 
-If you have any questions about how to use Canvas, please message your instructor using the Canvas Inbox or email <mailto:phase0@devbootcamp.com>.
+If you have any questions about how to use Canvas, please message your teacher using the Canvas Inbox or email <mailto:phase0@devbootcamp.com>.
 ***
 
 ## Problems with Canvas
