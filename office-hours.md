@@ -21,5 +21,3 @@ There are two different types of office hours in Phase 0.
 You will not be able to sign up for office hours, simply jump into the hangout or conference to ask your questions. You are not required to stay the whole time, and keep in mind, if there are multiple people in office hours getting help, your teacher or guide may help for a few minutes, give you a task to do, and then request you come back.
 
 *If your guide misses the session, please email <mailto:phase0@devbootcamp.com>.
-
-
