@@ -95,14 +95,14 @@ Because these are evaluations, we will be looking for specific things:
 	- HAVE FUN!
 
 ### You will not be successful if you:
-	- Let your pair take over completely and “coast” through the session.
-  - Forget to switch between driving and navigating.
-	- Act like you understand something when you don’t.
-	- Do not contribute to the code.
-	- Do not ask questions.
-	- Expect yourself to be perfect.
-	- Expect your pair to be perfect.
-	- Prioritize completion or speediness over understanding.
+       - Let your pair take over completely and “coast” through the session.
+       - Forget to switch between driving and navigating.
+       - Act like you understand something when you don’t.
+       - Do not contribute to the code.
+       - Do not ask questions.
+       - Expect yourself to be perfect.
+       - Expect your pair to be perfect.
+       - Prioritize completion or speediness over understanding.
 
 ## Feedback and Transparency
 
