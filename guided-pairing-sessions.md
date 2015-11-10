@@ -116,6 +116,6 @@ Grading Scale:
 - Slightly Below: 1 pt
 - Does not meet: 0 pts
 
-* Please Note: If you feel you are behind or struggling, you must reach out to your teacher (via the [Canvas Inbox](https://devbootcamp.instructure.com)) to discuss a plan to make sure you stay on track during Phase 0. If you are getting consistent feedback that you not meeting expectations, your teacher will require you to move to the next cohort. If you continue to get feedback of being behind or struggling on your second time through the content, you will be asked to leave the program.
+** Please Note: If you feel you are behind or struggling, you must reach out to your teacher (via the [Canvas Inbox](https://devbootcamp.instructure.com)) to discuss a plan to make sure you stay on track during Phase 0. If you are getting consistent feedback that you not meeting expectations, your teacher will require you to move to the next cohort. If you continue to get feedback of being behind or struggling on your second time through the content, you will be asked to leave the program.
 
 You are also required to leave feedback for your pair (in the [Feedback App](https://feedback.devbootcamp.com)) as well as for your guide. If you end up pairing with a guide you are not required to leave feedback for a pair (fill in the survey with that information). Include feedback to your Guide in the Guide Feedback form (located in the week's module under the GPS form).
