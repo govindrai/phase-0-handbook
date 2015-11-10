@@ -14,8 +14,8 @@ Although it may sometimes feel like it, Phase 0 is not an independent-study prog
 
 You will be in Phase 0 with people who will be going to other locations. We have made Phase 0 global in order to :
 
-1) Give you the most options to pair with others. All of you are busy, so the more people in the cohort to pair with, the better.
-2) Help you build your network. Some of you may move to other places once you graduate from Dev Bootcamp. Getting to know people in other cohorts will help you get jobs, gain friends, and will generally be great for building your network.
-3) Give you more options to help one another and share resources. The more people who are available, the more help and resources there are to go around.
+1. Give you the most options to pair with others. All of you are busy, so the more people in the cohort to pair with, the better.
+2. Help you build your network. Some of you may move to other places once you graduate from Dev Bootcamp. Getting to know people in other cohorts will help you get jobs, gain friends, and will generally be great for building your network.
+3. Give you more options to help one another and share resources. The more people who are available, the more help and resources there are to go around.
 
 It may feel frustrating to pair with someone going to a different location at first, but it will be great experience and exposure to others. Take advantage of this opportunity!
