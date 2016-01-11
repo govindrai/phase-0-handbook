@@ -55,11 +55,16 @@ Guides are Dev Bootcamp alumni at various stages of their web development career
 
 Each guide has a slightly different guiding style. Some guides are more active in taking you through a challenge with your pair and others focus on observing. If you have a guide whose style is different from what you need, it is up to you to let them know. Each guide should introduce their guiding style at the beginning of the session. If it's not what you're expecting, be sure to discuss that with your pair and your guide.
 
-Most guides will observe you and your pair work through a challenge and ask you to pause if they feel you are getting off track or about to go down a rabbit hole. Guides will also give you help with coding conventions, tips, style, and communication. They are also there to answer questions, help you ask good questions, and make sure you and your pair are on a similar page. A guide will guide you towards an answer, rather than giving you the answer.
+Guides can be expected to
+- observe you and your pair workign together
+- ask you to pause if they feel you are getting off track
+- help with coding conventions, style, communication, and so on
+- answer questions (with guidance rather than an answer) and help you ask good questions
 
-Although you have one hour with the guide, the challenges will often take longer. This means you will probably need to set aside another time to finish the challenge with your pair or on your own. After the hour is up, the guide will leave you on your own to finish the challenge.
+Although you have one hour with the guide, the challenges will often take longer. This means you will probably need to set aside another time to finish the challenge with your pair or on your own.
 
 ## Success Guidelines
+
 GPS are intended to help you become a better pair, have a stronger connection to DBC, and to feel more confident with the material. That said, GPS are the main way we evaluate your progress and give you feedback in the program. Evaluations in Guided Pairing Sessions are a good indicator of whether Dev Bootcamp's learning environment is a good match for you.
 
 Because these are evaluations, we will be looking for specific things:
