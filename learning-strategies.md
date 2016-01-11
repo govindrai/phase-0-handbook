@@ -1,9 +1,9 @@
 [Table of Contents](README.md)
 
 ## Our Approach to Learning
-Dev Bootcamp requires you to acclimate to a new learning environment and mindset. You will be confronted daily by your own limitations whether they be technical or cultural. Moreover, you will not be able to rely on grades to figure out how you are doing. You will have to assess yourself and determine whether you are progressing at a rate that satisfies you.
+Dev Bootcamp requires you to acclimate to a new learning environment and mindset. You will be confronted daily by your own technical and cultural limitations. Without grades, you will have to assess yourself and determine whether you are progressing at a rate that satisfies you.
 
-Our educational model is fundamentally different from those offered in traditional institutions. A Dev Bootcamp teacher's role is to act as a guide and resource, rather than a transmitter of information or an "expert." You will learn new information and technologies through challenges, not lecture. You will spend the majority of your time working and learning with a pair or group as well.
+A Dev Bootcamp teacher's role is to act as a guide and resource, rather than a transmitter of information or an "expert." You will learn new information and technologies mainly through challenges, spending the majority of your time working and learning with a pair or group.
 
 In order to be successful at Dev Bootcamp, students need to:
 
@@ -14,14 +14,14 @@ In order to be successful at Dev Bootcamp, students need to:
 5. Be excited to teach others
 5. Adopt, adapt, or create approaches to solving problems
 
-The Phase 0 program attempts to bring the DBC environment to your home in a way that helps you prepare for your new life and enter Phase 1 at a level where you feel prepared enough to be successful. That said, Phase 0 is a different beast than the on-site portion of Dev Bootcamp. Because you are remote, you need to be far more organized than you will when you get on-site. You will have to manage peer pairing, Guided Pairing Sessions, challenges per week, reflections, etc. It will take quite a bit of organizational work, so be ready for it. Phase 0 also requires you to communicate a lot. We depend on you to initiate a conversation when you are falling behind or having difficulty. You can't assume your Phase 0 Teacher will initiate contact in the event you fall behind. It is up to you to take Phase 0 seriously and to learn as much as you can. Teachers and facilitators are here to guide you and help you, but Dev Bootcamp relies on students taking the initiative to learn.
+Remote learning requires an organized approach. You will have to manage peer pairing, Guided Pairing Sessions, challenges per week, reflections, etc. Phase 0 also requires you to communicate a lot. We depend on you to initiate a conversation when you are falling behind or having difficulty. Dev Bootcamp relies on students taking the initiative to learn.
 
 *Also see [Learn to Code or Code to Learn?](http://devbootcamp.com/2014/02/17/learn-to-code-code-to-learn/)*
 
 ## Tips for Success
 Whatever your learning or thinking style, here are a few strategies you can try to incorporate to help you learn and succeed.
 
-1. **Take Breaks** Do not expect to will yourself to a solution through sheer effort without any breaks. If you find you are working for two hours and aren't making any progress, don't get frustrated, take a break. Spend time thinking about strategies without feeling guilty that you aren't coding. You'll be amazed at how much easier it is to solve problems after taking a break.
+1. **Take Breaks** You'll be amazed at how much easier it is to solve problems after a quick walk or a cup of tea.
 2. **Get Sleep** If you aren't making progress and you are tired, go to bed. We guarantee you that you will have an easier time solving the problem tomorrow.
 3. **Pseudocode** Do not expect yourself to write code without having to think through an approach, and give yourself the time and space you need to think and pseudocode a strategy. Practice pseudocoding even when you think you don't need to. It will be even more important when you get to more intricate problems, and you don't want to have to learn how to do it when you need it most.
 4. **Be honest with yourself** If you don't understand something, ask. Each person comes to the program with different knowledge, levels, and experiences, and it's important to give yourself the space to ask questions. No one knows everything, and contrary to what you may feel, you aren't the only person who doesn't get something.
