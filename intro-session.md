@@ -1,8 +1,8 @@
 [Table of Contents](README.md)
 
-During your first week of Phase 0, you will have an introductory session with your Teacher. These sessions will be scheduled to last an hour and will all be held during the business hours in your Teacher's timezone. They are mandatory, so please make the necessary arrangements to attend a session. If you are working, it's possible to attend a session either before or after the day (depending on your timezone and your teachers) or during lunch.
+During your first week of Phase 0, you will have an introductory session with your Teacher. These sessions will be scheduled to last an hour and will all be held during the business hours in your Teacher's timezone. They are mandatory, so please make the necessary arrangements to attend a session.
 
-The purpose of these sessions are to:
+The purpose of these sessions is to:
 
 1. Introduce you to some of your cohort mates
 2. Make sure you have access to all our systems
