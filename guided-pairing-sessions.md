@@ -56,7 +56,7 @@ Guides are Dev Bootcamp alumni at various stages of their web development career
 Each guide has a slightly different guiding style. Some guides are more active in taking you through a challenge with your pair and others focus on observing. If you have a guide whose style is different from what you need, it is up to you to let them know. Each guide should introduce their guiding style at the beginning of the session. If it's not what you're expecting, be sure to discuss that with your pair and your guide.
 
 Guides can be expected to
-- observe you and your pair workign together
+- observe you and your pair working together
 - ask you to pause if they feel you are getting off track
 - help with coding conventions, style, communication, and so on
 - answer questions (with guidance rather than an answer) and help you ask good questions
