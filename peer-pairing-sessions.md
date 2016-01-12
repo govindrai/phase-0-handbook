@@ -4,15 +4,13 @@
 
 ## Purpose
 
-Pair programming has gained in popularity among companies by enabling developers to learn from each other and make fewer mistakes. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. You will learn more effectively through pairing, and your pairing skills will only strengthen with practice. This is why Phase 0 utilizes pair programming as much as it does! (You should feel free to pair more often though)!
-
-Read [Pair Programming Considered Extremely Beneficial](http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/)  to further understand the benefits of pair programming.
+Pair programming has gained in popularity among companies by enabling developers to learn from each other and make fewer mistakes. Pair programming can enable both partners to learn and grow if communication is open, friendly, and based on mutual trust and respect. You will learn more effectively through pairing, and your pairing skills will only strengthen with practice. This is why Phase 0 utilizes pair programming as much as it does!
 
 ## Expectations
 
 As part of Phase 0, students are expected to pair program with another student in their cohort, from any location, at least **2 times per week** (with the exception of Week 1). Each week has mandatory pairing challenges you will need to pair on.
 
-While it is not mandatory, we encourage students to pair with a different person in each session. This ensures you do not get used to a couple people's pairing style. Pairing with many people will help you become a better pair!
+While it is not mandatory, we encourage students to pair with a different person in each session. Diverse pairing will strengthen your pairing skills more quickly.
 
 It is up to each student to arrange pairing sessions. We suggest posting on the discussion board in Canvas (devbootcamp.instructure.com) to request a pairing session. In your post, it helps to state a time/times (including a time zone) and the challenge you want to pair on. Once another student says they are available to pair, you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
 
