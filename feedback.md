@@ -4,7 +4,7 @@
 
 ###Submitting Feedback
 
-You must complete feedback using the [Feedback App](https://feedback.devbootcamp.com/) for every pairing session (GPS and Peer Pairing) you complete. Giving feedback is a mandatory aspect of Phase 0 and you will be asked to track your participation in an assignment in Canvas.
+You must complete feedback using the [Feedback App](https://feedback.devbootcamp.com/) for every pairing session (GPS and Peer Pairing) you complete.
 
 Please watch this [Engineering Empathy Video on Feedback](https://vimeo.com/99780302) prior to giving feedback for the first time for some guidelines. Writing good feedback is challenging and time consuming, but, it is important to make sure you are writing feedback that will help your pair grow as a partner and as a programmer.
 
@@ -19,5 +19,3 @@ It is mandatory you **abstain from writing your pair's name or your own name any
 Please Note: Feedback is not editable, by you as a student or by the Phase 0 Team as admins, in the app once it's submitted.
 
 Unfortunately, there is no counter in the app for you to keep track of the amount you rate, so it is up to you to keep track of how many pieces you've rated and enter it on your pairing form.
-
-If you want another resource for help on writing good feedback, check out [Seven Keys to Effective Feedback](http://www.ascd.org/publications/educational-leadership/sept12/vol70/num01/Seven-Keys-to-Effective-Feedback.aspx).
