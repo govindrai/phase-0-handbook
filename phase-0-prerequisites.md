@@ -10,7 +10,7 @@ Here is a rough timeline of what you should expect between now and your Phase 0 
 
 - Go through each task in this document. Each must be complete before your start date.
 - You will receive an email one week before your start date to get you set up in the Phase 0 systems. You will not have access prior to this date.
-- One of the systems you receive access to is Canvas, located at [https://devbootcamp.instructure.com](https://devbootcamp.instructure.com). The Week 0 module contains some activities that check whether you have done these prerequisites as well as a few new tasks, such as setting up your computer developer environment.** Plan on spending about 5-15 hours on the Week 0 material.
+- One of the systems you receive access to is Canvas, located at [https://devbootcamp.instructure.com](https://devbootcamp.instructure.com). The Week 0 module contains some activities that check whether you have done these prerequisites as well as a few new tasks, such as setting up your computer developer environment.** Plan on spending about 10-20 hours on the Week 0 material.
 - During the first week of Phase 0 you will have an Introductory Session with your teacher to make sure you are set up for Phase 0 and to give you a chance to ask questions. These sessions are only offered during business hours, Monday through Friday.
 
 ***
