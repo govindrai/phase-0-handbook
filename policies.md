@@ -4,9 +4,7 @@
 
 ## The Three Agreements: Integrity, Kindness, and Whole Self
 
-At Dev Bootcamp, we are asking you to do a crazy thing: to learn how to be a developer within a matter of weeks.  For you to reach this goal, we need everyone to work together, follow our methodology, and agree to adhere to the policies, rules, and guidelines that have made Dev Bootcamp successful.
-
-To outline these rules we have three agreements that guide the actions of everyone in the DBC community (staff, students, and alumni). We expect every person to uphold these values every day, throughout the entirety of the program. By enrolling in DBC, you are implicitly agreeing to uphold these agreements. If at any time you are not upholding any of these agreements, you will be asked to leave the program.
+At Dev Bootcamp, three agreements guide the actions of everyone in the DBC community (staff, students, and alumni). We expect every person to do their best to uphold these values every day. If at any time you are not upholding any of these agreements, you will be asked to leave the program.
 
 ### The First Agreement: Integrity
 In simplest form, this means being honest. One way to embody integrity is doing what you say you are going to do. We expect you to be in integrity by:
@@ -25,9 +23,13 @@ Part of being in integrity also means that if you fall out of integrity, for wha
 ### The Second Agreement: Kindness
 We also expect every person to be kind to one another. Kindness does not mean "nice;" they are actually not the same thing. Being kind does mean being friendly, generous, and considerate, but it does also means giving constructive, truthful feedback as long as it is <strong>A</strong>ctionable, <strong>S</strong>pecific, and <strong>K</strong>ind (ASK). This might also include a difficult, but necessary, conversation.
 
-We expect everyone at DBC to show kindness by providing constant feedback to one another, holding each other accountable to unholding these three agreements, and by bringing ourselves 100% into each and every day. We also show kindness through showing respect to others and our space.
+We expect everyone at DBC to show kindness by 
 
-Last but not least, we expect you to be kind to yourself.  You've taken a big risk and are making a big change.  Give yourself some space and understanding as you face the challenges of our program.
+- Providing constant feedback to one another
+- Listening to one another and making compromises when necessary
+- Offering encouragement and support to one another
+
+Last but not least, we expect you to be kind to yourself. You've taken a big risk and are making a big change. Be patient with yourself.
 
 ### The Third Agreement: Whole Self
 
@@ -41,9 +43,9 @@ We expect everyone to complete the assigned challenges, but we want to reinforce
 
 ## Code of Conduct
 
-Dev Bootcamp is committed to creating and protecting an equal, inclusive, and empathetic educational community. We are all stewards of this unique learning environment.  Every one of us is responsible for upholding these values whenever we participate in all aspects of the DBC community.
+Dev Bootcamp is committed to creating and protecting an equal, inclusive, and empathetic educational community.
 
-We treat everyone with the same high level of respect regardless of their gender, age, sexual orientation, ability, appearance, race, spiritual practice, religious affiliation, or any other personal characteristic. We reject words, actions, or images that express transphobic, homophobic, sexist, or racist ideas. We understand that sexualized content does not belong in an educational or professional setting. We aspire to find the courage to give each other actionable, specific and kind feedback if we witness behavior that harms our learning community. We resolve conflicts with listening and discussion, never physically or with threats. We listen, openly and with acceptance, to the experiences of people from all backgrounds. We work to notice and correct for our unconscious biases. We will keep learning and improving on the human skills that are at the heart of our transformative educational experience.
+We treat everyone with the same high level of respect regardless of their gender, age, sexual orientation, ability, appearance, race, spiritual practice, religious affiliation, or any other personal characteristic. We reject words, actions, or images that express transphobic, homophobic, sexist, or racist ideas. We understand that sexualized content does not belong in an educational or professional setting. We aspire to find the courage to give each other actionable, specific and kind feedback if we witness behavior that harms our learning community. We resolve conflicts with listening and discussion. We listen, openly and with acceptance, to the experiences of people from all backgrounds. We work to notice and correct for our unconscious biases. We will keep learning and improving on the human skills that are at the heart of our transformative educational experience.
 
 ***
 
@@ -61,11 +63,9 @@ Harassment includes offensive verbal comments related to gender, gender identity
 
 Dev Bootcamp alumni, employers, and guests are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material.
 
-If a participant engages in harassing behavior, Dev Bootcamp Staff may take any action they deem appropriate, including warning the offender or expulsion from Dev Bootcamp; for students this means expulsion from the program with no refund; for others, this includes expulsion from or banning of the Dev Bootcamp space with no refund, if applicable.
+If a participant engages in harassing behavior, Dev Bootcamp Staff may take any action they deem appropriate. This might mean a warning, or it might mean expulsion from the program with no refund.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of Dev Bootcamp Staff immediately.
-
-Dev Bootcamp Staff will be happy to assist those experiencing harassment to feel safe for the duration of their time in Phase 0 and at Dev Bootcamp.
 
 ## Your Phase 0 contacts
 
