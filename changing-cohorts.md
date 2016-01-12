@@ -10,7 +10,7 @@ Here are a few things to note if you are considering repeating a unit of Phase 0
 * There is a $250 change fee because your spot in your original cohort will go unfilled. (You should receive an invoice within 2 weeks of processing)
 * You will need to submit all work for the prior units again in your new course.
 * You must re-do all GPS and Code Review challenges for the weeks you are repeating.
-* You may only repeat each unit once.
+* You may only repeat once during Phase 0.
 
 If repeating is an option you want to explore more, please message your teacher in the [Canvas inbox](https://devbootcamp.instructure.com) to discuss it.
 
