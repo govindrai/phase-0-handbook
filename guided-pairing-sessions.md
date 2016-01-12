@@ -10,15 +10,13 @@ Guided Pairing Sessions are designed to do three main things:
  2. Help students develop greater technical understanding with assistance from Phase 0 Guides
  3. Prepare students for being on-site where pairing will be an integral part of each day's experience
 
-Phase 0 Guides use this time to see how students engage with one another, how they are progressing in terms of technical knowledge, and to help students develop a deeper understanding of technical material.
-
 Each GPS challenge is designed to reinforce the learning outcomes covered up to and including the previous week's challenges. These sessions are opportunities for you to identify and clarify concepts that were confusing, as well as to get practice pairing. Sometimes GPS curriculum will address new concepts. In these instances, you are expected to research in the session and practice your researching abilities.
 
 ## Expectations
 
 Each student is required to attend six Guided Pairing Sessions (GPS) during Phase 0. Each session is only offered during the week it is assigned.
 
-You may sign up for the upcoming 3 week's sessions by noon the Friday before the unit starts on the [Phase 0 App](https://phase0.devbootcamp.com). There is one small exception: if you are in Week 1, you will be able to sign up for your first GPS the day after your introductory session. We only make one session for each student, so sign up early!
+You may sign up for the upcoming 3 weeks' sessions by noon the Friday before the unit starts on the [Phase 0 App](https://phase0.devbootcamp.com). There is one small exception: if you are in Week 1, you will be able to sign up for your first GPS the day after your introductory session. We only make one session for each student, so sign up early!
 
 **If you do not complete the GPS in the week it is assigned, we cannot guarantee you will be able to stay in the cohort you are currently in. You will be forced to move to the next cohort and re-submit all assignments to that point. Makeup sessions will only given for emergency-situations only.**
 
@@ -49,7 +47,7 @@ The GPS schedule is as follows:
 
 ## Who are Guides?
 
-Guides are Dev Bootcamp alumni at various stages of their web development careers. Some have just graduated from Dev Bootcamp and have an excellent perspective into the experience of being a student. Others graduated over a year ago and have been working as web developers. Each guide goes through a selective interview process to ensure they have the interest, skills, and qualities to work with Phase 0 students. Because they have all been through the entirety of Dev Bootcamp, they are a great resource for answering your questions, so feel free to ask them!
+Guides are Dev Bootcamp alumni at various stages of their web development careers. Some have just graduated from Dev Bootcamp and have an excellent perspective into the experience of being a student. Others graduated over a year ago and have been working as web developers. Because they have all been through the entirety of Dev Bootcamp, they are a great resource for answering your questions!
 
 ## The Guide's Role
 
@@ -65,30 +63,29 @@ Although you have one hour with the guide, the challenges will often take longer
 
 ## Success Guidelines
 
-GPS are intended to help you become a better pair, have a stronger connection to DBC, and to feel more confident with the material. That said, GPS are the main way we evaluate your progress and give you feedback in the program. Evaluations in Guided Pairing Sessions are a good indicator of whether Dev Bootcamp's learning environment is a good match for you.
+GPS are the main way we evaluate your progress and give you feedback in the program. Evaluations in Guided Pairing Sessions are a good indicator of whether Dev Bootcamp's learning environment is a good match for you.
 
-Because these are evaluations, we will be looking for specific things:
-
-### Culturally we are looking for your:
+### Culturally we are looking for your
 
 	- Enthusiasm for programming and solving challenges.
 	- Willingness to check in, connect, and share how you are feeling.
-	- Curiosity of how things work.
+	- Curiosity about how things work.
 	- Ability to show your ignorance and speaking up if you don't know something.
 	- Ability to balance speaking and listening, driving and navigating.
 	- Ability to engage the Phase 0 Guide when you and your pair are stuck.
 
-### Technically we are looking for you to:
+### Technically we are looking for you to
+
 	- Transfer knowledge from previous challenges to a new challenge.
 	- Identify concepts that are confusing and ask for help.
 	- Demonstrate your comfort with reading and writing code.
 	- Implement the technical skills you've learned.
 
-### You will be successful in GPS if you:
+### You will be successful in GPS if you
+
 	- Express your opinions and ideas.
 	- Appoint a driver and navigator and swap roles with clear communication.
 	- Seek out and create space for your pair’s thoughts and opinions.
-	- Are considerate of your pair.
 	- Ask questions when you don’t understand something (Ask your pair before asking the guide).
 	- Discuss various options with your pair as well as pros and cons.
 	- Demonstrate your ability to research methods, use IRB, etc.
@@ -99,7 +96,8 @@ Because these are evaluations, we will be looking for specific things:
 	- Use the knowledge you’ve gained to demonstrate the outcomes listed in the challenge.
 	- HAVE FUN!
 
-### You will not be successful if you:
+### You will not be successful if you
+
        - Let your pair take over completely and “coast” through the session.
        - Forget to switch between driving and navigating.
        - Act like you understand something when you don’t.
@@ -111,9 +109,9 @@ Because these are evaluations, we will be looking for specific things:
 
 ## Feedback and Transparency
 
-By the end of the day of your GPS, you will receive feedback from your Guide in [Canvas](https://devbootcamp.instructure.com). This feedback will give you specifics on how you did against the learning outcomes and how the session went both technically and culturally. Based on this feedback, you should have a good sense if you are on track, behind, or struggling.
+By the end of the day of your GPS, you will receive feedback from your Guide in [Canvas](https://devbootcamp.instructure.com).
 
-This feedback is not meant to be a grade, even though it will appear as a score. It is meant to give you an better understanding of your current progress and where you can improve. Each learning outcome is technically out of 3 points although a rubric will put it at 5. If you get a 3/5 that is right where you should be.
+This feedback is not meant to be a grade, even though it will appear as a score. It is meant to give you an better understanding of your current progress and where you can improve. Each learning outcome is technically out of 3 points although a rubric will put it at 5. If you get a 3/5, that is right where you should be.
 
 Grading Scale:
 - Exceeds Expectations: 5 pts
@@ -121,6 +119,4 @@ Grading Scale:
 - Slightly Below: 1 pt
 - Does not meet: 0 pts
 
-** Please Note: If you feel you are behind or struggling, you must reach out to your teacher (via the [Canvas Inbox](https://devbootcamp.instructure.com)) to discuss a plan to make sure you stay on track during Phase 0. If you are getting consistent feedback that you not meeting expectations, your teacher will require you to move to the next cohort. If you continue to get feedback of being behind or struggling on your second time through the content, you will be asked to leave the program.
-
-You are also required to leave feedback for your pair (in the [Feedback App](https://feedback.devbootcamp.com)) as well as for your guide. If you end up pairing with a guide you are not required to leave feedback for a pair (fill in the survey with that information). Include feedback to your Guide in the Guide Feedback form (located in the week's module under the GPS form).
+You are also required to leave feedback for your pair (in the [Feedback App](https://feedback.devbootcamp.com)) as well as for your guide. If you end up pairing with a guide, you are not required to leave feedback for a pair (fill in the survey with that information). Include feedback to your Guide in the Guide Feedback form (located in the week's module under the GPS form).
