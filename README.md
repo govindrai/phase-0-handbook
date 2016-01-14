@@ -20,6 +20,7 @@ This handbook is designed to help orient students to the Phase 0 experience. If 
 - [Guided Pairing Sessions](guided-pairing-sessions.md)
 - [Peer-Pairing Sessions](pairing-in-phase-0.md)
 - [Feedback](feedback.md)
+- [Challenges](challenges.md)
 - [Solo Challenges](solo-challenges.md)
 - [Accountability Groups](accountability-groups.md)
 - [Office Hours](office-hours.md)
