@@ -29,4 +29,3 @@ This handbook is designed to help orient students to the Phase 0 experience. If 
 ## Important Resources
 
 - [FAQ's](FAQ.md)
-- [Phase 0 Reading/Resource List](resources.md)
