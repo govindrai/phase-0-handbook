@@ -47,4 +47,4 @@ For more code-typing practice, checkout <a href = "http://typing.io/" target="_b
 
 ***
 
-In Week 0, we'll ask you to read the rest of this handbook. If you'd like, you can get started on it earlier: [Handbook Table of Contents](README.md)
+In Week 0, we'll ask you to read the course handbook. If you'd like, you can get started on it earlier: [Handbook Table of Contents](README.md)
