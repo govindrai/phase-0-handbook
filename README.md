@@ -28,8 +28,5 @@ This handbook is designed to help orient students to the Phase 0 experience. If 
 
 ## Important Resources
 
-- [Learning Strategies](learning-strategies.md)
-- [Research, Debugging, and Google](research-debugging-and-google.md)
-- [Sublime Text Hotkeys](hotkeys.md)
 - [FAQ's](FAQ.md)
 - [Phase 0 Reading/Resource List](resources.md)
