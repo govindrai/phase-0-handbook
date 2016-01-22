@@ -36,7 +36,9 @@ You will need to create each of these accounts prior to your start date.
 #### 2. Update your browser
 We recommend using [Chrome](https://www.google.com/chrome/browser/) in Phase 0. Please be sure you have the latest version of the browser.
 
-#### 3. Typing and shortcuts
+#### 3. Read about [preventing repetitive strain injuries] (https://docs.google.com/document/d/1s4PtCBr1oBmhCgfA3nJ6YTT_dQMpQnflt9U-T3frzN0)
+
+#### 4. Improve your typing speed
 If your typing skills could use some work, improve your touch typing with  <a href = "http://typing.lk/" target="_blank">typing.lk</a>. 
 
 Before entering Phase 0, you should be able to type at least 40 words per minute.
