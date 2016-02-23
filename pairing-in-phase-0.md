@@ -83,6 +83,6 @@ I-messages are a powerful communication tool that prevents conflicts from escala
 
 ## Pairing Resources
 - Good Check-ins for [Pairing](https://vimeo.com/76662569) Video: 5 min
-- Our collaborative coding editor video [Stypi](https://vimeo.com/76870082) 2 min
+- [Coderpad] (https://coderpad.io/) (you will be assigned a Coderpad) for collaborative code editing
 - [Guided Pairing Sessions (GPS) in Phase 0](guided-pairing-sessions.md)
 - Giving and Receiving [Feedback](https://vimeo.com/99780302) 27 min
