@@ -1,6 +1,6 @@
 [Table of Contents](README.md)
 
-# Research, Debugging, and Google
+# Research, Debugging, Google and Working with Sample Code
 
 Due to the nature of software development, there are many resources and code samples available online.  You probably already know this and have used sites like [StackOverflow](http://www.stackoverflow.com).  This site (GitHub) was built to help people share code.
 
@@ -68,4 +68,17 @@ Take a look at these resources as you think about online research:
 * [3 Things to try when Google doesn't have the answer](http://skillcrush.com/2013/05/03/3-things-to-try-when-google-doesnt-have-the-answer/)
 .
 
+## Working With Sample Code
+When you research solutions online and read through documentation, you will often encounter sample code.  Do **NOT** copy and paste this code into your code base.  
+
+### Why not? 
+  
+* Copied code often will not work (ie - if you copy the <code>$</code> for Command Line code).
+* When you copy code, you don't take the time to think.  What is it that I want to do next? (clone a repo).  What is the command to do that? 
+* Copied code represents technical debt in your coding project.  If you don't understand every line, you could be introducing a bug or security issue. 
+
+### What should you do? 
+* Try out the code in a separate file (you can copy and paste it here).  Understand what it does and how to use it. 
+* In your own code, use the code samples as a reference.  Try to type without looking first (to help you learn) and if you can't remember / don't know the command yet, then look at the sample.
+* Make sure to translate the sample to your environment by replacing generic values (USERNAME, filename, etc) with actual values.
 
