@@ -20,4 +20,4 @@ It is your responsibility to be able to explain **every. single. piece** of code
 
 ## Code Review and Feedback
 
-You will receive a code review and feedback on each solo challenge. Each guide has their own style, but many will focus on what you can do to improve.
+You will receive a code review and feedback on some of your solo challenges (we'll link you to a form to submit at the end of the challenge in those cases). Each guide has their own style, but many will focus on what you can do to improve.
