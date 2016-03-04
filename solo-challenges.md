@@ -9,14 +9,12 @@ From the teacher's perspective, solo challenges provide us with an example of yo
 
 ## Expectations
 ### Research
-We ask you to follow a different protocol when researching for these challenges because they are meant to be an example of your work and current abilities.
+It's okay to refer to your old code and to other parts of the curriculum. You can also use documentation and Google searches, but don't copy and paste code from Stack Overflow or otherwise plagiarize someone else's work. Only write code that you understand and can explain.
 
-Please do not consult anyone (including friends, family, cohort-mates, or DBC staff) on any part of the challenge (the one exception is if you need clarification on instructions). This includes office hours.
+Please do not consult anyone (including friends, family, cohort-mates, or DBC staff) for help on any part of the challenge (the one exception is if you need clarification on instructions). This includes office hours.
 
-### Plagiarism
-Now for the part we all dread...plagiarism. So what is it exactly? In this context it's submitting work that did not come out of your head. In the past, students feared the solo challenges because they considered them a test that had a "right" answer. But there are no "right" answers at Dev Bootcamp. There are solutions that work, and solutions that need work. We want you to learn, and we know that learning often comes from failure.
-
-What we mean to say is, if you are stuck and can't get a working solution, DO NOT panic and submit a solution that you found online. You will be cheating yourself of the learning opportunity and we will consider you out of integrity. This will result in a conversation and you may be asked to leave the program. If you find yourself in a situation where your code is not doing what you expected or want, explain what's going wrong (i.e. what you expected to happen and what's actually happening) in a comment in your file. Then take a break and sleep on it. Don't ever continue to struggle for hours in the hopes you will come to it. You'll be amazed how much better you'll feel after taking a break, and doing so will increase your chances of finding errors.
+### When You're Struggling
+If you find yourself in a situation where your code is not doing what you expected or want, explain what's going wrong (i.e. what you expected to happen and what's actually happening) in a comment in your file. Then take a break and sleep on it. Don't ever continue to struggle for hours in the hopes you will come to it. You'll be amazed how much better you'll feel after taking a break, and doing so will increase your chances of finding errors. If you can't figure it out, it's better to hand in what you have than to cheat.
 
 It is your responsibility to be able to explain **every. single. piece** of code and why it's necessary.
 
