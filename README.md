@@ -19,7 +19,6 @@ This handbook is designed to help orient students to the Phase 0 experience. If 
 - [Canvas: Our Learning Management System](canvas.md)
 - [Guided Pairing Sessions](guided-pairing-sessions.md)
 - [Peer-Pairing Sessions](pairing-in-phase-0.md)
-- [Feedback](feedback.md)
 - [Challenges](challenges.md)
 - [Solo Challenges](solo-challenges.md)
 - [Peer Reviews](peer-review.md)
