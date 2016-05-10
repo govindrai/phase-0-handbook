@@ -14,9 +14,9 @@ Each GPS challenge is designed to reinforce the learning outcomes covered up to 
 
 ## Expectations
 
-Each student is required to attend six Guided Pairing Sessions (GPS) during Phase 0. Each session is only offered during the week it is assigned.
+Each student is required to attend five Guided Pairing Sessions (GPS) during Phase 0. Each session is only offered during the week it is assigned.
 
-You may sign up for the upcoming 3 weeks' sessions by noon the Friday before the unit starts on the [Phase 0 App](https://phase0.devbootcamp.com). There is one small exception: if you are in Week 1, you will be able to sign up for your first GPS the day after your introductory session. We only make one session for each student, so sign up early!
+You may sign up for a given week's sessions by noon the preceding Friday on the [Phase 0 App](https://phase0.devbootcamp.com). We only make one session for each student, so sign up early!
 
 **If you do not complete the GPS in the week it is assigned, we cannot guarantee you will be able to stay in the cohort you are currently in. You will be forced to move to the next cohort and re-submit all assignments to that point. Makeup sessions will only given for emergency-situations only.**
 
@@ -31,8 +31,7 @@ The GPS schedule is as follows:
 
     Unit 2
      - Week 4: GPS 2.1 CSS
-     - Week 5: GPS 2.2 Ruby
-     - Week 6: GPS 2.3 Ruby
+     - Week 6: GPS 2.2 Ruby
 
     Unit 3
      - Week 7: GPS 3.1 Ruby
@@ -119,4 +118,4 @@ Grading Scale:
 - Slightly Below: 1 pt
 - Does not meet: 0 pts
 
-You are also required to leave feedback for your pair (in the [Feedback App](https://feedback.devbootcamp.com)) as well as for your guide. If you end up pairing with a guide, you are not required to leave feedback for a pair (fill in the survey with that information). Include feedback to your Guide in the Guide Feedback form (located in the week's module under the GPS form).
+You are also required to leave feedback for your guide. Include feedback to your Guide in the Guide Feedback form (located in the week's module under the GPS form).
