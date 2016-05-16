@@ -8,7 +8,7 @@ If you are having a hard time working through the content, or if you don't do we
 
 You might also voluntarily choose to repeat. For this option, note that there is a $250 change fee, because your spot in your original cohort will go unfilled. (You should receive an invoice within 2 weeks of processing).
 
-Either way, only one repeat is allowed. Students who need to repeat more than once are likely to be asked to leave the program, unless there are extenuating circumstances.
+Either way, only one repeat is allowed. Students who need to repeat more than once will be asked to leave the program, unless there are extenuating circumstances.
 
 If you are repeating:
 
