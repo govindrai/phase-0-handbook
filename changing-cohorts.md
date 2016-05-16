@@ -4,7 +4,7 @@
 
 ## Repeating in Phase 0
 
-If you are having a hard time working through the content, or if you don't do well on the timed assessment in Week 7, your teacher may decide you need to repeat. Repeating gives you a second chance to complete the challenges you struggled with or did not complete. Some students join the cohort immediately following their current cohort (repeating three weeks of material), and others join later cohorts, depending on the recommendation of their teacher.
+If you are having a hard time working through the content, or if you don't do well on the timed assessment in Week 7, your teacher may decide you need to repeat. Repeating gives you a second chance to complete the challenges you struggled with or did not complete. Some students join the cohort immediately following their current cohort (repeating three weeks of material). Others join later cohorts, depending on the recommendation of their teacher.
 
 You might also voluntarily choose to repeat. For this option, note that there is a $250 change fee, because your spot in your original cohort will go unfilled. (You should receive an invoice within 2 weeks of processing).
 
