@@ -4,17 +4,18 @@
 
 ## Repeating in Phase 0
 
-If you are having a hard time working through the content, you may opt to repeat a unit (Unit 1: Weeks 1-3, Unit 2: Weeks 4-6, Unit 3: Weeks 7-9). Repeating gives you a second chance to complete the challenges you struggled with or did not complete.
+If you are having a hard time working through the content, or if you don't do well on the timed assessment in Week 7, your teacher may decide you need to repeat. Repeating gives you a second chance to complete the challenges you struggled with or did not complete. Some students join the cohort immediately following their current cohort (repeating three weeks of material), and others join later cohorts, depending on the recommendation of their teacher.
 
-Here are a few things to note if you are considering repeating a unit of Phase 0:
-* There is a $250 change fee because your spot in your original cohort will go unfilled. (You should receive an invoice within 2 weeks of processing)
+You might also voluntarily choose to repeat. For this option, note that there is a $250 change fee, because your spot in your original cohort will go unfilled. (You should receive an invoice within 2 weeks of processing).
+
+Either way, only one repeat is allowed. Students who need to repeat more than once are likely to be asked to leave the program, unless there are extenuating circumstances.
+
+If you are repeating:
+
 * You will need to submit all work for the prior units again in your new course.
 * You must re-do all GPS and Code Review challenges for the weeks you are repeating.
-* You may only repeat once during Phase 0.
 
-If repeating is an option you want to explore more, please message your teacher in the [Canvas inbox](https://devbootcamp.instructure.com) to discuss it.
-
-If you are behind, your teacher may require you to repeat. If this is the case, the $250 fee will not be charged.
+If repeating is an option you want to explore more, please message your teacher to discuss it.
 
 ## Deferring to a Later Cohort
 
