@@ -16,13 +16,13 @@ As part of Phase 0, students are expected to pair program with another student i
 
 While it is not mandatory, we encourage students to pair with a different person in each session. Diverse pairing will strengthen your pairing skills more quickly.
 
-It is up to each student to arrange pairing sessions. We suggest posting on the discussion board in Canvas (devbootcamp.instructure.com) to request a pairing session. In your post, it helps to state a time/times (including a time zone) and the challenge you want to pair on. Once another student says they are available to pair, you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
+It is up to each student to arrange pairing sessions. We suggest posting on Slack to request a pairing session. In your post, it helps to state a time/times (including a time zone) and the challenge you want to pair on. Once another student says they are available to pair, you should decide whether you will attempt the challenge before the agreed upon time or decide to not work on it before the session.
 
 * A peer pairing session must be at least 45 minutes to be counted as one of your sessions.
 * You can work on any of the challenges for the week except for the solo challenges.
 * You must pair on "Mandatory Pairing" challenges.
 * Guided Pairing Sessions (GPS) DO NOT count as peer-pairing sessions.
-* You must give feedback to your pair after every session in the Feedback App.
+* You must give verbal feedback to your pair after every session.
 
 ## Driver and Navigator Roles
 
@@ -53,7 +53,7 @@ You will be successful in your Peer-Pairing sessions if you:
 - Make sure both of you know the exact line of code and the concept you are discussing.
 - Ask your pair for their opinions and ideas often.
 - Allow yourself to make mistakes.
-- Submit feedback to help your pair improve.
+- Offer feedback to help your pair improve.
 - Use feedback you've received to become a better pair.
 
 ## Pairing Remotely
