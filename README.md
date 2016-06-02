@@ -21,6 +21,7 @@ This handbook is designed to help orient students to the Phase 0 experience. If 
 - [Peer-Pairing Sessions](pairing-in-phase-0.md)
 - [Challenges](challenges.md)
 - [Solo Challenges](solo-challenges.md)
+- [Assessments](assessments.md)
 - [Peer Reviews](peer-review.md)
 - [Reflections](reflections.md)
 - [Accountability Groups](accountability-groups.md)
