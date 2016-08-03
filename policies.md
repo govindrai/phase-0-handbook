@@ -70,7 +70,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 ## Your Phase 0 contacts
 
 * Male: Emmanuel Kaunitz <mailto:emmanuel@devbootcamp.com>
-* Female: Jennifer Gilbert <mailto:jennifer@devbootcamp.com>
+* Female: Glenna Mowry <mailto:glenna.mowry@devbootcamp.com>
 
 ---
 
