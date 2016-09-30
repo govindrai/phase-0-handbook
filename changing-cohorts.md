@@ -4,16 +4,24 @@
 
 ## Repeating in Phase 0
 
-If you are having a hard time working through the content, or if you don't do well on the timed assessment in Week 7, your teacher may decide you need to repeat. Repeating gives you a second chance to complete the challenges you struggled with or did not complete. Some students join the cohort immediately following their current cohort (repeating three weeks of material). Others join later cohorts, depending on the recommendation of their teacher.
+If you are having a hard time working through the content, fall behind on your work, or if you don't do well on the timed assessment in Week 7, your teacher may decide you need to repeat. Repeating gives you a second chance to complete the challenges you struggled with or did not complete. Some students join the cohort immediately following their current cohort (repeating three weeks of material). Others join later cohorts, depending on the recommendation of their teacher or their on-site location's cohort availability.
 
 You might also voluntarily choose to repeat. For this option, note that there is a $250 change fee, because your spot in your original cohort will go unfilled. (You should receive an invoice within 2 weeks of processing).
 
 Either way, only one repeat is allowed. Students who need to repeat more than once will be asked to leave the program, unless there are extenuating circumstances.
 
+Repeat Policies:
+
+* If you are two weeks behind on work, you will be automatically repeated back to the next cohort.
+* Three strike policy: after your third strike, you will be repeated back to the next cohort.
+* Students acquire strikes for missing a GPS and for every week their work is turned in late.
+* A GPS is considered missed if you are marked absent for your scheduled GPS. If you reschedule your GPS through phase0.devbootcamp.com before your session occurs you will not be marked as missed.
+* For students who repeat due to strikes, any further strikes will result in removal from the program.
+
 If you are repeating:
 
-* You will need to submit all work for the prior units again in your new course.
-* You must re-do all GPS and Code Review challenges for the weeks you are repeating.
+* You will need to submit all work in your new cohort, starting the week you are repeated.
+* You must re-do all of the work, including: GPS, all challenges, practice assessments, and pairings for the weeks you are repeating.
 
 If repeating is an option you want to explore more, please message your teacher to discuss it.
 
