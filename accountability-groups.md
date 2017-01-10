@@ -8,8 +8,8 @@ Each week, you will be required to send your accountability group an update on h
 
 Although you will be required to use the discussion forums, you can also meet with your accountability group online or create your own method of group communication with them to connect more often.
 
-***
+<br>
 
-<span style="float:left">Previous: [Peer Reviews](peer-review.md)
-</span>
-<span style="float:right">Next: [Office Hours](office-hours.md)</span>
+|Previous|Next|
+|---|---|
+|[Peer Reviews](peer-review.md)|[Office Hours](office-hours.md)|

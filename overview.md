@@ -10,6 +10,8 @@ Being successful at Dev Bootcamp is not about discovering the right answer (beca
 
 Although it may sometimes feel like it, Phase 0 is not an independent-study program. You will be required to pair and interact with others in your cohort on a regular basis. We recognize this will be more difficult for introverts, but it will be worth the reward of making meaningful connections with others. Your peers will be crucial support during your Phase 0 (and Dev Bootcamp) journey.
 
+<br>
+
 |Previous|Next|
 |---|---|
 |[Phase 0 Prerequisites](phase-0-prerequisites.md)|[Policies](policies.md)|
