@@ -119,3 +119,8 @@ Grading Scale:
 - Does not meet: 0 pts
 
 You are also required to leave feedback for your guide. Include feedback to your Guide in the Guide Feedback form (located in the week's module under the GPS form).
+
+***
+
+<span style="float:left">Previous: [Canvas: Our Learning Management System](canvas.md)</span>
+<span style="float:right">Next: [Peer-Pairing Sessions](pairing-in-phase-0.md)</span>

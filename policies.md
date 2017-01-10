@@ -76,3 +76,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
+***
+
+<span style="float:left">Previous: [Welcome!](overview.md)</span>
+<span style="float:right">Next: [Changing Cohorts or Withdrawing](changing-cohorts.md)</span>
+

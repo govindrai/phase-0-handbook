@@ -35,3 +35,6 @@ Make sure you read through the handbook thoroughly. Substitute "Phase 0 Handbook
 
 ![syllabus cartoon](imgs/syllabus-cartoon.gif)
 
+***
+
+<span style="float:left">Previous: [Solo Challenges](solo-challenges.md)</span>

@@ -19,3 +19,8 @@ There are two different types of office hours in Phase 0.
   - These sessions are offered after business hours and on weekends.
 
 *If your guide misses the session, please email <mailto:phase0@devbootcamp.com>.
+
+***
+
+<span style="float:left">Previous: [Accountability Groups](accountability-groups.md)</span>
+<span style="float:right">Next: [Office Hours](office-hours.md)</span>

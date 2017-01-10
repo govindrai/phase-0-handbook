@@ -9,3 +9,8 @@ Phase 0 aims to familiarize you to the learning culture we foster at Dev Bootcam
 Being successful at Dev Bootcamp is not about discovering the right answer (because there often aren't right answers) or writing the most perfect code. It is about your **own, honest, best** attempt at tackling the challenge. Sometimes, your attempts may not produce a working solution, and that is OK. Write that in your reflection and say where you got stuck.
 
 Although it may sometimes feel like it, Phase 0 is not an independent-study program. You will be required to pair and interact with others in your cohort on a regular basis. We recognize this will be more difficult for introverts, but it will be worth the reward of making meaningful connections with others. Your peers will be crucial support during your Phase 0 (and Dev Bootcamp) journey.
+
+***
+
+<span style="float:left">Previous: [Phase 0 Prerequisites](phase-0-prerequisites.md)</span>
+<span style="float:right">Next: [Policies](policies.md)</span>

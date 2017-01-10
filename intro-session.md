@@ -10,3 +10,9 @@ The purpose of these sessions is to:
 4. Answer any questions you have about Phase 0 or Dev Bootcamp on site
 
 Please note that you do NOT have to wait to start on the Week 1 material until you have your session.
+
+***
+
+<span style="float:left">Previous: [Contact Us](contact-and-support-list.md)
+</span>
+<span style="float:right">Next: [Canvas: Our Learning Management System](canvas.md)</span>

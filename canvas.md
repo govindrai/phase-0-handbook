@@ -63,3 +63,8 @@ If you have something you are sure is a bug in Canvas, please report it using th
 
 ### Finding Help and Feature Requests
 Go to the Canvas Community [https://community.canvaslms.com/welcome](https://community.canvaslms.com/welcome) to search for help and request new features.
+
+***
+
+<span style="float:left">Previous: [Introductory Sessions](intro-session.md)</span>
+<span style="float:right">Next: [Guided Pairing Sessions](guided-pairing-sessions.md)</span>

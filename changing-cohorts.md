@@ -14,7 +14,7 @@ Repeat Policies:
 
 * If you are two weeks behind on work, you will be automatically repeated back to the next cohort.
 * Three strike policy: after your third strike, you will be repeated back to the next cohort.
-* Students acquire strikes for missing a GPS and for every week their work is turned in late.
+* Students acquire strikes for missing a GPS ([Guided Pairing Sessions](guided-pairing-sessions.md)) and for every week their work is turned in late.
 * A GPS is considered missed if you are marked absent for your scheduled GPS. If you reschedule your GPS through phase0.devbootcamp.com before your session occurs you will not be marked as missed.
 * For students who repeat due to strikes, any further strikes will result in removal from the program.
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/Devbootcamp/graphic-assets/blob/master/logos/DBC_HORIZONTAL%20LOGO/2_COLOR/RGB/DBC_H_2C_RGB.png">
+![logo](imgs/logo.png)
 
 # Phase 0 Student Handbook
 

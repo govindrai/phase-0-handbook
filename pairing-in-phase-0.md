@@ -86,3 +86,8 @@ I-messages are a powerful communication tool that prevents conflicts from escala
 - [Coderpad] (https://coderpad.io/) (you will be assigned a Coderpad) for collaborative code editing
 - [Guided Pairing Sessions (GPS) in Phase 0](guided-pairing-sessions.md)
 - Giving and Receiving [Feedback](https://vimeo.com/99780302) 27 min
+
+***
+
+<span style="float:left">Previous: [Guided Pairing Sessions](guided-pairing-sessions.md)</span>
+<span style="float:right">Next: [Challenges](challenges.md)</span>
