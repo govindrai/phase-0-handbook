@@ -12,6 +12,5 @@ Although it may sometimes feel like it, Phase 0 is not an independent-study prog
 
 <br>
 
-|Previous|Next|
+|[Phase 0 Prerequisites](phase-0-prerequisites.md)|Next: [Policies](policies.md)|
 |---|---|
-|[Phase 0 Prerequisites](phase-0-prerequisites.md)|[Policies](policies.md)|

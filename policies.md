@@ -78,6 +78,5 @@ This anti-harassment policy is based on the example policy from the Geek Feminis
 
 <br>
 
-|Previous|Next|
+|[Welcome!](overview.md)|Next: [Changing Cohorts or Withdrawing](changing-cohorts.md)|
 |---|---|
-|[Welcome!](overview.md)|[Changing Cohorts or Withdrawing](changing-cohorts.md)|

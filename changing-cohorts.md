@@ -44,3 +44,8 @@ If you have decided to leave the program, there are a few steps we ask you to ta
 **If you are in Week 1 or later**, reach out to your teacher in the [Canvas inbox](https://devbootcamp.instructure.com) to let them know you would like to leave the program. They will assign a special survey to you that will need to be completed prior to finalizing the request. We will also meet with you to discuss your decision. After that, we will submit your request to our accounting department.
 
 Please note: It may take up to three weeks to fully process a refund from the date it was requested.
+
+<br>
+
+|[Policies](policies.md)|Next: [Contact Us](contact-and-support-list.md)|
+|---|---|
