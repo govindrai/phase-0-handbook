@@ -1,7 +1,5 @@
 ![logo](imgs/logo.png)
 
-[Table of Contents](README.md)
-
 # Welcome to DBC!
 
 We are so excited that you have decided to embark on this amazing, life-changing journey with us.
