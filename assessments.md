@@ -16,5 +16,5 @@ Like the real assessment, practice assessments are timed Canvas quizzes. You'll 
 
 <br>
 
-|< [Solo Challenges](solo-challenges.md)|Next: [Peer Reviews](peer-review.md)|
+|< [Solo Challenges](solo-challenges.md)|Next: [Peer Review](peer-review.md)|
 |---|---|

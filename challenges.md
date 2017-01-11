@@ -11,5 +11,5 @@
 
 <br>
 
-|< [Peer-Pairing Sessions](pairing-in-phase-0.md)|Next: [Solo Challenges](solo-challenges.md)(guided-pairing-sessions.md)|
+|< [Peer-Pairing Sessions](pairing-in-phase-0.md)|Next: [Solo Challenges](solo-challenges.md)|
 |---|---|

@@ -22,7 +22,7 @@ This handbook is designed to help orient students to the Phase 0 experience. If 
 - [Challenges](challenges.md)
 - [Solo Challenges](solo-challenges.md)
 - [Assessments](assessments.md)
-- [Peer Reviews](peer-review.md)
+- [Peer Review](peer-review.md)
 - [Accountability Groups](accountability-groups.md)
 - [Office Hours](office-hours.md)
 

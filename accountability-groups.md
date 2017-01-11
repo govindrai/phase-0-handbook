@@ -10,5 +10,5 @@ Although you will be required to use the discussion forums, you can also meet wi
 
 <br>
 
-|< [Peer Reviews](peer-review.md)|Next: [Office Hours](office-hours.md)|
+|< [Peer Review](peer-review.md)|Next: [Office Hours](office-hours.md)|
 |---|---|
