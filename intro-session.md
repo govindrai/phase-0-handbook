@@ -11,8 +11,7 @@ The purpose of these sessions is to:
 
 Please note that you do NOT have to wait to start on the Week 1 material until you have your session.
 
-***
+<br>
 
-<span style="float:left">Previous: [Contact Us](contact-and-support-list.md)
-</span>
-<span style="float:right">Next: [Canvas: Our Learning Management System](canvas.md)</span>
+|< [Contact Us](contact-and-support-list.md)|Next: [Canvas: Our Learning Management System](canvas.md)|
+|---|---|

@@ -47,5 +47,5 @@ Please note: It may take up to three weeks to fully process a refund from the da
 
 <br>
 
-|[Policies](policies.md)|Next: [Contact Us](contact-and-support-list.md)|
+|< [Policies](policies.md)|Next: [Contact Us](contact-and-support-list.md)|
 |---|---|

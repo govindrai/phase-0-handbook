@@ -13,10 +13,9 @@
 - We will not respond to any messages over the weekend, but please send a message if you are having issues. We will respond to it as soon as we can within our communications hours.
 - We will try our best to respond to all communications within one business day.
 
-***
+<br>
 
-<span style="float:left">Previous: [Changing Cohorts or Withdrawing](changing-cohorts.md)</span>
-<span style="float:right">Next: [Introductory Sessions](intro-session.md)</span>
-
+|< [Changing Cohorts or Withdrawing](changing-cohorts.md)|Next: [Introductory Sessions](intro-session.md)|
+|---|---|
 
 

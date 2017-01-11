@@ -17,5 +17,5 @@ Which one do you like best? Currently, I think #4 is a good choice, and that is 
 |---|---|
 
 ### Descriptional Links with "Next" text
-|[< Phase 0 Prerequisites](phase-0-prerequisites.md)|Next: [Policies >](policies.md)|
+|< [Phase 0 Prerequisites](phase-0-prerequisites.md)|Next: [Policies >](policies.md)|
 |---|---|

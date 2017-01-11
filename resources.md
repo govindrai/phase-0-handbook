@@ -62,7 +62,7 @@
 - [A Wealth Of Ruby Loops And Iterators](http://www.skorks.com/2009/09/a-wealth-of-ruby-loops-and-iterators)
 
 
-####SQL and Databases
+#### SQL and Databases
 - [VIDEO: Database Basics](https://www.youtube.com/watch?v=oxuy4AP860g)
 - [SQL tutorial](http://www.sqlcourse2.com/index.html)
 - [SQL SELECT statements](https://www.youtube.com/watch?v=DDIAnk6CRsU)

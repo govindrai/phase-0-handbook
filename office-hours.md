@@ -20,7 +20,7 @@ There are two different types of office hours in Phase 0.
 
 *If your guide misses the session, please email <mailto:phase0@devbootcamp.com>.
 
-***
+<br>
 
-<span style="float:left">Previous: [Accountability Groups](accountability-groups.md)</span>
-<span style="float:right">Next: [Office Hours](office-hours.md)</span>
+|< [Accountability Groups](accountability-groups.md)|Next: [Office Hours](office-hours.md)|
+|---|---|

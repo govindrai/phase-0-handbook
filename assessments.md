@@ -14,7 +14,7 @@ To help you get used to the feeling of coding under pressure, we offer several p
 
 Like the real assessment, practice assessments are timed Canvas quizzes. You'll see a countdown timer displayed while taking the quiz.
 
-***
+<br>
 
-<span style="float:left">Previous: [Solo Challenges](solo-challenges.md)</span>
-<span style="float:right">Next: [Peer Reviews](peer-review.md)</span> 
+|< [Solo Challenges](solo-challenges.md)|Next: [Peer Reviews](peer-review.md)|
+|---|---|

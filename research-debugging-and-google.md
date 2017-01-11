@@ -81,4 +81,3 @@ When you research solutions online and read through documentation, you will ofte
 * Try out the code in a separate file (you can copy and paste it here).  Understand what it does and how to use it. 
 * In your own code, use the code samples as a reference.  Try to type without looking first (to help you learn) and if you can't remember / don't know the command yet, then look at the sample.
 * Make sure to translate the sample to your environment by replacing generic values (USERNAME, filename, etc) with actual values.
-
